@@ -1,4 +1,4 @@
-==========================================================================
+
     _______    ___ _    _    _ _
     |__ /    \  | _ (_)_ _ | |__  __ _| | |
     |_ \ |) | |  _/ | ' \| '_ \/ _` | | |
@@ -8,105 +8,105 @@
     \__ \ '_ \/ _` / _/ -_)  | (_/ _` / _` / -_)  _|
     |___/ .__/\__,_\__\___|  \___\__,_\__,_\___|\__|
     |_|    Ver. 1.5.2
-==========================================================================
+
 
     Original by Froesch14
     Revisions by drewburr
 
-==========================================================================
+
 Index
-==========================================================================
+
 I.     Copyright........................................................[CP0]
 II.    The Guide........................................................[GD0]
-    - Guide Purpose    [GD1]
-    - Using This Guide    [GD2]
+    - Guide Purpose
+    - Using This Guide
 III.   Concepts.........................................................[CP0]
-    - Pinball Basics    [CP1]
-    - Catching    [CP2]
-    - Drain    [CP3]
-    - Table Reset    [CP4]
-    - Extra Balls    [CP5]
-    - Replay Balls    [CP6]
-    - Nudge/Tilt    [CP7]
-    - End of Game    [CP8]
-    - High Scores    [CP9]
+    - Pinball Basics
+    - Catching
+    - Drain
+    - Table Reset
+    - Extra Balls
+    - Replay Balls
+    - Nudge/Tilt
+    - End of Game
+    - High Scores
 IV.    Game Information.................................................[GI0]
-    - Version    [GI1]
-    - Operating System    [GI2]
-    - Synopsis    [GI3]
+    - Version
+    - Operating System
+    - Synopsis
 V.     Program Controls & Menus.........................................[CM0]
-    - Game Controls    [CM1]
-    - Menus    [CM2]
-    - Function Keys    [CM3]
-    - Dialog Boxes    [CM4]
+    - Game Controls
+    - Menus
+    - Function Keys
+    - Dialog Boxes
 VI.    Scoreboard.......................................................[SB0]
 VII.   Table............................................................[TB0]
-    - Areas    [TB1]
-    - Drain Area    [TBA]
-    - Launch Area    [TBB]
-    - Re-entry Area    [TBC]
-    - Elements    [TB2]
-    - Bumpers    [TBD]
+    - Areas
+    - Drain Area
+    - Launch Area
+    - Re-entry Area
+    - Elements
+    - Bumpers
     - Attack Bumpers
     - Engine Bumpers
     - Satellite Bumper
-    - Chutes & Ramps    [TBE]
+    - Chutes & Ramps
     - Deployment Chute
     - Fuel Chute
     - Hyperspace Chute
     - Launch Ramp
-    - Flags    [TBF]
+    - Flags
     - Fuel Flag
     - Huperspace Flag
-    - Kickers    [TBG]
+    - Kickers
     - Blackhole Kicker
     - Out-Lane Kickers
     - Secondary Out-Lane Kicker
     - Wormhole
-    - Lanes    [TBH]
+    - Lanes
     - Bonus Lane
     - Engine/Launch Lanes
     - Out-Lanes
     - Re-Entry Lanes
     - Return Lanes
     - Skill Shot Lane
-    - Rollovers    [TBI]
+    - Rollovers
     - Fuel Rollover
     - Spacewarp Rollover
-    - Targets, Drop    [TBJ]
+    - Targets, Drop
     - Booster Targets
     - Medal Targets
     - Multiplier Targets
-    - Targets, Spot    [TBK]
+    - Targets, Spot
     - Comet (Right Hazard) Targets
     - Fuel Targets
     - Mission Targets
     - Radiation (Left Hazard) Targets
     - Wormhole Target
-    - Miscellaneous Elements    [TBL]
+    - Miscellaneous Elements
     - Center Post
     - Rebounds
-    - Lights    [TB3]
-    - Chute Lights    [TBM]
+    - Lights
+    - Chute Lights
     - Deployment Chute
     - Fuel Chute
     - Launch Ramp
     - Skill Shot Arrow (Hyperspace Chute)
     - Skill Shot Arrow (Launch Ramp)
-    - Kicker Lights    [TBN]
+    - Kicker Lights
     - Gravity Well
     - Hyperspace Kicker
     - Out-Lane Kicker Arrow
     - Replay
     - Secondary Out-Lane Kicker Arrow
     - Wormhole Exit Arrow
-    - Lane Lights    [TBO]
+    - Lane Lights
     - Bonus Lane
     - Engine/Launch Lanes
     - Out-Lane (Extra Ball)
     - Re-Entry Lanes
     - Return Lanes
-    - Mission Lights    [TBP]
+    - Mission Lights
     - Mission Accept Arrow
     - Mission Arrows
     - Maelstrom Hyperspace Arrow
@@ -114,18 +114,18 @@ VII.   Table............................................................[TB0]
     - Rank
     - Time Warp Hyperspace Arrow
     - Time Warp Launch Arrow
-    - Targets, Drop Lights    [TBQ]
+    - Targets, Drop Lights
     - Booster
     - Field Multiplier
     - Flag Upgrade
     - Medal
-    - Targets, Spot Lights    [TBR]
+    - Targets, Spot Lights
     - Comet
     - Fuel
     - Mission
     - Radiation
     - Wormhole
-    - Miscellaneous Lights    [TBS]
+    - Miscellaneous Lights
     - Center Post
     - Deployment Arrows
     - Maelstrom
@@ -133,103 +133,78 @@ VII.   Table............................................................[TB0]
     - Space Warp
     - Tilt
 VIII.  Messages.........................................................[MG0]
-    - Informational    [MG1]
-    - Instructional    [MG2]
+    - Informational
+    - Instructional
 IX.    Missions.........................................................[MN0]
-    - Mission Basics    [MN1]
-    - Rank : Cadet    [MN2]
-    - Ranks: Ensign & Lieutenant    [MN3]
-    - Ranks: Captain & Lt. Commander    [MN4]
-    - Ranks: Commander & Commodore    [MN5]
-    - Ranks: Admiral & Fleet Admiral    [MN6]
-    - Mission Progress Notices    [MN7]
-    - Mission Completion Notices    [MN8]
-    - Final Mission Note    [MN9]
+    - Mission Basics
+    - Rank : Cadet
+    - Ranks: Ensign & Lieutenant
+    - Ranks: Captain & Lt. Commander
+    - Ranks: Commander & Commodore
+    - Ranks: Admiral & Fleet Admiral
+    - Mission Progress Notices
+    - Mission Completion Notices
+    - Final Mission Note
 X.     Secondary Objectives.............................................[SO0]
-    - Center Post    [SO1]
-    - Extra Ball    [SO2]
-    - Out-lane Kickers    [SO3]
-    - Replay Ball    [SO4]
-    - Re-fuel    [SO5]
-    - Skipping Ranks    [SO6]
-    - Upgrade Bumpers    [SO7]
+    - Center Post
+    - Extra Ball
+    - Out-lane Kickers
+    - Replay Ball
+    - Re-fuel
+    - Skipping Ranks
+    - Upgrade Bumpers
 XI.    Bonus', Jackpots & Awards........................................[BN0]
-    - Bonus    [BN1]
-    - Bonus Lane    [BNA]
-    - Crash Bonus    [BNB]
-    - Center Post    [BN2]
-    - Extra Ball    [BN3]
-    - Field Multiplier    [BN4]
-    - Flag Upgrade    [BN5]
-    - Hyperspace Bonus    [BN6]
-    - Jackpot    [BN7]
-    - Replay Ball    [BN8]
-    - Reflex Shot Award    [BN9]
-    - Return Lane Bonus    [BN!]
-    - Skill Shot    [BN@]
+    - Bonus
+    - Bonus Lane
+    - Crash Bonus
+    - Center Post
+    - Extra Ball
+    - Field Multiplier
+    - Flag Upgrade
+    - Hyperspace Bonus
+    - Jackpot
+    - Replay Ball
+    - Reflex Shot Award
+    - Return Lane Bonus
+    - Skill Shot
 XII.   Multi-Player Mode................................................[MP0]
 XIII.  Cheat Codes......................................................[CC0]
-    - Max Codes    [CC1]
-    - Test Codes    [CC2]
+    - Max Codes
+    - Test Codes
 XIV.   Advice & Strategy................................................[AS0]
-    - General Advice    [AS1]
-    - Specific Advice    [AS2]
-    - Things to Get Good At    [AS3]
+    - General Advice
+    - Specific Advice
+    - Things to Get Good At
 XV.    Frequently Asked Questions (FAQ) & Comments......................[FQ0]
 XVI.   Thanks...........................................................[TX0]
 XVII.  Version History..................................................[VH0]
 XVIII. End of Guide.....................................................[EG0]
 
-==========================================================================
-I. Copyright    [CP0]
-==========================================================================
+
+I. Copyright
+
 Do what you want with this, it's just a guide.
 
 Copyright 2006-2008 Michael Morin (Froesch14)
 Copyright 2019-2021 Drew Brown (drewburr9)
 
 
-==========================================================================
-II. The Guide    [GD0]
-==========================================================================
-Guide Purpose    [GD1]
-------------------------------
+
+II. The Guide
+
+Guide Purpose
+
 This guide was created to address certain short-comings, errors and inaccuracies observed in the game Help and other 3D Space Cadet Pinball Guides found online.  It is intended to be the most complete and the most accurate guide for 3D Space Cadet Pinball available. If you can't find what you're looking for here it probably doesn't exist.
 
-Using This Guide    [GD2]
-------------------------------
-The index is relatively detailed to aid you in finding the information you're looking for.
+III. Concepts
 
-The main sections you'll probably be interested in are: 'Missions', 'Secondary Objectives', 'Bonus', Awards & Jackpots', and 'Advice & Strategy'.
-
-The FAQ also has some good information so you may want to check that out.
-
-The 'Concepts' section is intended primarily for people who've never seen or played an actual pinball machine.
-
-If you're interested in the inner workings of the game check out the 'Table' section, but be warned: It's very long!
-
-The 'Table' section can be confusing so have a look at the table diagram file which should be located in the same place you found this guide.
-- If it's not there you can use the diagram in the help section of the game but be careful, some of the associated information isn't completely accurate.
-
-- To quickly move to a specific section use the Find function in your browser or text editor to search for the Section Code listed in the index.
-
-- The section search codes are formatted [XX#] or [XXX].
-
-- If you can't find it that way either we're using different terminology or one of us can't spell.
-
-Be careful when printing this guide.  There is A LOT of information and it's around 50 pages long.
-- To minimize the number of printed pages highlight the parts you wish to print in your browser, right click and select 'Print...' from the drop down menu.  Be sure and select 'Print Selection' in the print dialog box.
-
-==========================================================================
-III. Concepts    [CP0]
-==========================================================================
 The following sections present basic pinball ideas as they relate to 3D Space
 Cadet Pinball.  They are intended to aid younger players who may have never
 before heard of or seen pinball previously.  For more information the Wikipedia
 reference to pinball is very informative.
 
-Pinball Basics    [CP1]
-------------------------------
+Pinball Basics
+
 Pinball is a type of coin-operated arcade game where a player attempts to score points by manipulating one or more metal balls on a playfield or table inside a glass covered case called a pinball machine.  The primary objective of the game is to score as many points as possible.  The Secondary objective is to maximize the time spent playing.  Some games, including 3D Space Cadet Pinball, have rudimentary storylines to play through offering the player additional objectives and sense of accomplishment.  The player begins with a limited number of balls (typically 3) to accomplish these goals.
 
 Pinball on the computer is based on the physical pinball machine. Pinball machines were introduced in the early 1930s and became a dominant form of entertainment for youth after World War II through the late 1970s.  They were eventually overtaken by electronic video games as the game of choice in arcades.
@@ -244,28 +219,28 @@ The player’s primary means of controlling the ball once it’s been put into p
 
 For more information on table elements refer to the 'Table' section.
 
-Catching    [CP2]
-------------------------------
+Catching
+
 Catching is a term used to describe the act of allowing the ball to come to rest on one of the flippers.  It is a higher level technique used to gain added control over the ball and allow the player to more accurately send the ball up the table at a desired target.
 
 Typically the player catches the ball by holding the flipper in the activated position a having the ball fall on to it.  This allows the ball to bounce between the flipper and the return lane eventually coming to rest at the base of the flipper.  The player then releases the flipper, allows the ball to roll down the flipper to the desired distance then activates the flipper again.
 
 The ball can also be caught as it drops to the flipper through the return lane.
 
-Drain    [CP3]
-------------------------------
+Drain
+
 The ball drains when it falls below the flippers and off the bottom of the table.  The ball can drain by either dropping between the flippers or passing one of the Out-Lanes.  3D Space Cadet Pinball has Out-Lane Kickers which can save the ball from being drained and send it back up the table.
 
 For more information on the Out-Lane Kickers refer to the 'Secondary Objectives' section.
 
-Table Reset    [CP4]
-------------------------------
+Table Reset
+
 Table reset occurs after the ball drains.  It returns all the targets and lights to their default settings.
 
 In 3D Space Cadet Pinball the lights indicating the player’s progress through the story (Rank & Progress Lights) are not reset with the rest of the table.
 
-Extra Balls    [CP5]
-------------------------------
+Extra Balls
+
 Typically the player begins with 3 balls available and after these balls drain the current game is over.  Extra balls, sometimes known as Free Balls, are balls which allow the player to continue play without advancing the ball counter.  Extra Balls can typically be collected in great numbers.
 
 If a ball drains and an extra ball has been awarded then the table resets (see above) and a new ball is placed at the plunger.  This new ball, however, does not count towards the 3 balls with which the player begins.  Once the last awarded extra ball drains the ball counter advances as normal.
@@ -274,8 +249,8 @@ Extra Balls can be equated to an extra life in most video games.
 
 For more information on Extra Balls refer to the 'Secondary Objectives' section.
 
-Replay Balls    [CP6]
-------------------------------
+Replay Balls
+
 Replay balls are similar to extra balls with one major difference: if the current ball drains and a replay ball has previously been awarded (is available) then the table DOES NOT reset.  The new ball placed in the plunger is, for all intent and purposes, the same ball which just drained and the player is allowed to continue the game as if the ball never drained in the first place.
 
 Just as with Extra Balls the ball counter does not advance after the ball drains if a replay is available, however, only one replay ball may typically be collected at any one time.
@@ -284,31 +259,31 @@ Replay Balls can be equated to temporary invincibility in most video games.
 
 For more information on Replay Balls refer to the 'Secondary Objectives' section.
 
-Nudge/Tilt    [CP7]
-------------------------------
+Nudge/Tilt
+
 Nudging is the secondary way in which the player controls the ball.  On physical pinball machines, if the player wished to affect the balls movement when it was not within range of the flippers they would physically jostle the machine.  This would affect the angel of the table and cause the ball to roll in a different direction.  Nudging the table could be considered a form of cheating and is, therefore, limited by the tilt function.
 
 If the table were nudged or tilted too far or for too long then the table will realize that the player is trying to gain an unfair advantage. This results in the table entering "tilt" mode.  All player inputs and all table functions are ceased causing the current ball to drain.  The table then resets (see above) and play continues as normal.
 
 For more information refer to "TILT!" in the 'Informational'part of the 'Messages' section.
 
-End of Game    [CP8]
-------------------------------
+End of Game
+
 The game ends when all of the balls the player began with (typically 3) have drained.
 
 The ball counter on the score board indicates the current ball count. This count does not include extra balls or replay balls.
 
-High Scores    [CP9]
-------------------------------
+High Scores
+
 If the game ends and the player has achieved a high enough score then that score and the players name can be added to the High Score Table.  This is a list of all the high scores which have been achieved on a particular machine. It allows players to brag to their friends and display their skill to others who play on the same machine.
 
 For more information refer to "High Scores" Dialog Box in the 'Program Controls & Menus' section.
 
-==========================================================================
-IV. Game Information    [GI0]
-==========================================================================
-Version    [GI1]
-------------------------------
+
+IV. Game Information
+
+Version
+
 	Microsoft ® 3D Pinball for Windows - Space Cadet
 	Version 5.1 (Build 2600.xpsp_sp2_qfe.070227-2300 : Service Pack 2)
 	Copyright © 1981-2001 Microsoft Corporation
@@ -318,19 +293,19 @@ Version    [GI1]
 Note:
 - This game was originally one of three tables which came as part of "Full Tilt! Pinball" developed by Cinematronics and published by Maxis in 1995.
 
-Operating System    [GI2]
-------------------------------
+Operating System
+
 	Microsoft ® Windows ® XP Professional, Service Pack 2
 
-Synopsis    [GI3]
-------------------------------
+Synopsis
+
 You are a young Cadet trying to graduate from the Space Academy and make a name for yourself as an officer. Complete your training and prove your abilities in order to move up through the ranks and increase your score. Do you have what it takes to become a Fleet Admiral and save the Galaxy? In 3D Pinball Space Cadet you'll find out!
 
-==========================================================================
-V. Program Controls & Menus    [CM0]
-==========================================================================
-Game Controls    [CM1]
-------------------------------
+
+V. Program Controls & Menus
+
+Game Controls
+
 Flipper (2x)
 - Used to send the Ball up the table.
 - Activate the flipper(s) to rotate the Re-entry & Launch Lane Lights.
@@ -353,8 +328,8 @@ Nudge (3x)
 Go to the Options menu and select Keyboard Controls to change the Default
   Controls (See the 'Dialog Boxes' section).
 
-Menus    [CM2]
-------------------------------
+Menus
+
 Menus may be accessed by clicking on the Menu name at the top of the Game
 Window.
 
@@ -374,7 +349,7 @@ Game Menu
 
 Options Menu
 - Full Screen
-  - Resizes the game to Full Screen. Hit [F4] or [Esc] to toggle back to window mode.
+  - Resizes the game to Full Screen. Hit [F4] or to toggle back to window mode.
 - Select Players
   - Select the number of players (1, 2, 3, or 4)
   - See 'Multi-Player Mode' section for more information.
@@ -391,8 +366,8 @@ Help Menu
 - About Pinball
   - Opens the About Pinball dialog box. View the version of the OS and game.
 
-Function Keys    [CM3]
-------------------------------
+Function Keys
+
 [F1] Help
 - Launches the Help window.
 - See the 'Dialog Boxes' section for more information.
@@ -405,14 +380,14 @@ Function Keys    [CM3]
 
 [F4] Full Screen
 - Resizes the game to Full Screen.
-- Hit [F4] or [Esc] to toggle back to window mode
+- Hit [F4] or to toggle back to window mode
 
 [F8] Player Controls
 - Opens the Player Controls Dialog Box.
 - See the 'Dialog Boxes' section for more information.
 
-Dialog Boxes    [CM4]
-------------------------------
+Dialog Boxes
+
 High Scores
 - Shows the top 5 high scores and the players who scored them.
 - After a High Score is achieved this box is opened and the player is able to enter their name.
@@ -430,9 +405,9 @@ Help
   - Use the "Contents", "Index", and "Search" tabs to find information you want.
   - Note: The in-game help isn't completely accurate and doesn't always have the information you may be looking for, hence this guide.
 
-==========================================================================
-VI. Scoreboard    [SB0]
-==========================================================================
+
+VI. Scoreboard
+
 The Scoreboard takes up the right side of the game window or screen (full
 screen mode).  It is where information about the game is displayed.  The
 Scoreboard is comprised of a number of displays (panes) which show different
@@ -463,40 +438,40 @@ Score Pane
 - Indicates the score achieved in the current game.
 - Updates continuously as points are scored.
 
-==========================================================================
-VII. Table    [TB0]
-==========================================================================
+
+VII. Table
+
 The table takes up the left side of the game window or screen (full screen
 mode). It is where the game is played.  The ball tends to travel by "gravity"
 from the top of the Table to the bottom.  The Table is comprised of a number of
 different areas, elements and lights which affect the ball and how points are
 scored.
 
-Areas    [TB1]
-------------------------------
+Areas
+
 Areas are spaces on the table through which the ball must pass in order to
   complete certain actions or objectives.  There are 3 areas on the Table.
 
-Drain Area    [TBA]
+Drain Area
 - Space at the bottom of the Table just below the Flippers and Return Lanes.
 - If the ball enters this area it will drain.
   - See the 'Drain' part of the 'Concepts' section for more information.
 
-Launch Area (Platform)    [TBB]
+Launch Area (Platform)
 - Purple platform at the middle left of the Table.
 - Contains the Engine Lanes & Engine Bumpers.
 - The ball must pass the Launch Ramp to enter this area.
   - Once the ball enters this area it must pass one of the Engine Lanes.
   - Once the ball enters this area it can only exit via the Bonus Lane and return to the Left Flipper.
 
-Re-entry Area    [TBC]
+Re-entry Area
 - Space at the top of the Table just above the Re-Entry Lanes.
 - The ball exits the Deployment Chute into this area.
   - The ball may also enter this area by passing up through one of the Re-entry Lanes or passing the one-way door above the Green Wormhole.
 - The ball must drop through one of the Re-Entry Lanes to exit this area.
 
-Elements    [TB2]
-------------------------------
+Elements
+
 BUMPERS
 Bumpers are white & mushroom shaped with colored lights on top.  There are 7
   Bumpers and 3 types.
@@ -504,7 +479,7 @@ Bumpers are white & mushroom shaped with colored lights on top.  There are 7
 For more information refer to 'Upgrade Bumpers' in the 'Secondary Objectives'
   section.
 
-Attack Bumpers    [TBD]
+Attack Bumpers
 - 3 Bumpers grouped at the top of the Table.
 - Upgrade by lighting all 3 Re-entry lane lights simultaneously.
 - The color of the light on top of the Bumper indicates the upgrade level.
@@ -532,7 +507,7 @@ Satellite (Remote Attack) Bumper
   - Yellow – 3500 points
   - Red    – 4500 points
 
-CHUTES & RAMPS    [TBE]
+CHUTES & RAMPS
 Chutes & Ramps are paths for the Ball to follow.  There are 4 total.
 
 Deployment Chute
@@ -568,7 +543,7 @@ Launch Ramp
 	  Mission.
 	- Upon exiting the launch platform the Ball will enter the Bonus Lane.
 
-FLAGS    [TBF]
+FLAGS
 Spinning White panels at the end of the Hyperspace & Fuel Chute.
 Spinning a flag changes the Wormhole Exit Light color if the Wormhole is
   opened.
@@ -583,7 +558,7 @@ Hyperspace Flag
   - No Booster  –  500 points per 1/2 spin.
   - Booster Lit – 2500 points per 1/2 spin.
 
-KICKERES    [TBG]
+KICKERES
 Areas where the Ball is stopped and "kicked" out.
 There are 9 kickers on the Table.
 
@@ -639,7 +614,7 @@ Wormhole
   - Ball enters "opened" Wormhole and exits a different Wormhole Kicker – 7500 points.
   - Ball enters the same "opened" Wormhole Kicker which it will exit – 5000 points + Replay Ball is awarded.
 
-LANES    [TBH]
+LANES
 Short chutes the Ball passes through.
 There are 12 lanes throughout the Table.
 
@@ -682,7 +657,7 @@ Skill Shot Lane
 - Deploy the Ball through this lane by not sending it out the top of the Deployment Chute to receive a Skill Shot bonus.
 - See Deployment Chute for more information.
 
-ROLLOVERS    [TBI]
+ROLLOVERS
 Panels flush with the tables which light up when the ball rolls over them.
 There are 7 rollovers throughout the table.
 
@@ -701,7 +676,7 @@ Space Warp Rollover
 - Hit this Rollover to turn on the Return Lane Lights.
 		* This element is worth 0 points.
 
-TARGETS, DROP    [TBJ]
+TARGETS, DROP
 Yellow squares which fall when hit.
 Targets impart some energy to the Ball when it rebounds.
 There 9 Drop Targets located throughout the Table.
@@ -741,7 +716,7 @@ Multiplier Targets
   - 4th Multiplier – 10x
 - Multipliers are applied to all points scored on the table except Jackpots, Bonus' and Mission Completion Awards.
 
-TARGETS, SPOT    [TBK]
+TARGETS, SPOT
 Small red circles.
 There are 13 Spot Targets located throughout the Table.
 Targets impart a small amount of energy to the wall when it rebounds.
@@ -775,7 +750,7 @@ Wormhole Target
 - Hit the target to "Open" the Wormholes & rotate the Wormhole Exit Light color.
 - 750 points per hit.
 
-MISCELLANEOUS ELEMENTS    [TBL]
+MISCELLANEOUS ELEMENTS
 Center Post
 - Post between the Flippers just above the Drain Area.
 - To activate the Center Post enter the Hyperspace Kicker 3 times in a row.
@@ -788,9 +763,9 @@ Rebounds
 - Impart a significant amount of energy to the Ball when hit.
 - 500 points per hit.
 
-Lights    [TB3]
-------------------------------
-CHUTE LIGHTS    [TBM]
+Lights
+
+CHUTE LIGHTS
 Deployment Chute
 - 6 lights across the Deployment Chute.
 - Indicates how far up the Deployment Chute the Ball has traveled.
@@ -822,7 +797,7 @@ Skill Shot Arrow, Launch Chute
 - Indicates a skill shot is available for entering the Launch Ramp.
   - Activated when the ball drops from the Launch Platform.
 
-KICKER LIGHTS    [TBN]
+KICKER LIGHTS
 Gravity Well
 - Single Light set in the center of the Progress & Rank Lights.
 - Blinking – Indicates the Gravity Well has been activated.
@@ -864,7 +839,7 @@ Wormhole Exit Arrow
 - Color is toggled by hitting the Wormhole Target or spinning either of the flags.
 - Goes out when a Ball enters any wormhole.
 
-LANE LIGHTS    [TBO]
+LANE LIGHTS
 Bonus Lane
 - Single light in the Bonus Lane.
 - Indicates a bonus is available in this lane.
@@ -896,7 +871,7 @@ Return Lanes
 - Pass the lane to receive extra points.
   - Roll the ball over the Space Warp Rollover to activate the lights.
 
-MISSION LIGHTS    [TBP]
+MISSION LIGHTS
 See the 'Missions' section for more information.
 
 Mission Accept Arrow
@@ -939,7 +914,7 @@ Time Warp Launch Arrow
 - Middle of the 3 arrows at the bottom of the Launch Ramp.
 - Indicates the Time Warp Mission will be completed if the Ball enters the Launch Ramp (Promotion).
 
-TARGET, DROP LIGHTS    [TBQ]
+TARGET, DROP LIGHTS
 Booster
 - 4 lights associated with the Booster Targets.
 - Lights are lit by hitting all 3 Booster Targets.
@@ -982,7 +957,7 @@ Medal
   - 3 lights – Level 3 Commendation (Extra Ball awarded)
 - Lights are extinguished in order after approximately 60 seconds.
 
-TARGET, SPOT LIGHTS    [TBR]
+TARGET, SPOT LIGHTS
 Comet
 - 3 lights associated with the Comet (Right Hazard) Targets.
 - Lights are lit by hitting the associated Comet (Right Hazard) Target.
@@ -1013,7 +988,7 @@ Wormhole
   - When lit the Wormholes are "Open"
   - Light goes out when a Wormhole is entered
 
-MISCELLANEOUS LIGHTS    [TBS]
+MISCELLANEOUS LIGHTS
 Center Post
 - Single light located between the Flippers.
 - Indicates the Center Post is activated.
@@ -1044,14 +1019,14 @@ Tilt
 - Indicates the Table has been tilted.
 - All Table functions cease when lit.
 
-==========================================================================
-VIII. Messages    [MG0]
-==========================================================================
+
+VIII. Messages
+
 Mission Objectives & Notices are not included in this section.  Refer to the
 Mission Section for more information those messages.
 
-Informational    [MG1]
-------------------------------
+Informational
+
 All informational messages are displayed in the Information Pane of the Score
 Board (See the 'Score Board' section for more information).
 
@@ -1206,8 +1181,8 @@ Wormhole Opened
 - The Ball will exit the Wormhole indicated by the arrow at it's entrance.
   - A Replay Ball is awarded if the Ball exits the same Open Wormhole it enters.
 
-Instructional    [MG2]
-------------------------------
+Instructional
+
 All instructional messages are displayed in the Information Pane (See the
 'Score Board' section for more information)
 
@@ -1264,9 +1239,9 @@ Warning – Low Fuel
 - Send the Ball up the Fuel Chute, through the Bonus Lane, into the Left Out-Lane Kicker, or hit all 3 Fuel Targets to Re-fuel.
   - Refer to the Secondary Objectives section for more information.
 
-==========================================================================
-IX. Missions    [MN0]
-==========================================================================
+
+IX. Missions
+
 Missions are the primary way to progress through the game.
 
 Missions give the player a set of goals and sense of accomplishment beyond
@@ -1276,8 +1251,8 @@ It is not required that any missions be completed, but they are the fastest
   way to accumulate points.
 - For more information on game strategy refer to the 'Secondary Objectives' and 'Advice and Strategy' sections.
 
-Mission Basics    [MN1]
-------------------------------
+Mission Basics
+
 Use the Mission Targets to select a mission.
 - Each target corresponds to a different mission based on current rank.
 - The last target hit selects the mission.
@@ -1313,8 +1288,8 @@ Ranks are as follows:
 - 8 Rank Lights – Admiral
 - 9 Rank Lights – Fleet Admiral
 
-Rank: Cadet    [MN2]
-------------------------------
+Rank: Cadet
+
 Rank Strategy
 - All the missions are pretty simple so play which ever you like the best.
 - You can complete this rank quickly by completing the Science Mission 1st & 2nd.
@@ -1364,8 +1339,8 @@ All Targets: Science Mission
   - When accepted all Drop Targets will be raised.
   - If you are trying for extra Multipliers, Commendations or Play Modes you may not want to accept this mission
 
-Ranks: Ensign & Lieutenant    [MN3]
-------------------------------
+Ranks: Ensign & Lieutenant
+
 Rank Strategy
 - Bug Hunt's definitely the easiest & Secret is definitely the hardest.
 - The Secret Missions is not really worth attempting because, unless you finish it twice, you still need to complete 3 missions to get promoted.
@@ -1434,8 +1409,8 @@ All Targets: Secret Mission
   - If the mission is aborted (all Fuel Lights go out) then the Wormholes will have to be re-activated ("Opened") before a Replay can be awarded.
   - Accepting this mission is not recommended if a Replay Ball is not available.
 
-Ranks: Captain & Lt. Commander    [MN4]
-------------------------------
+Ranks: Captain & Lt. Commander
+
 Rank Strategy
 - These are the hardest ranks in the game.
 - The missions are unforgiving and you still need 3 basic missions to get promoted.
@@ -1509,8 +1484,8 @@ All Targets: Cosmic Plague Mission
   - This is by far the easiest mission for these ranks.
   - Complete this mission as many times as possible.
 
-Ranks: Commander & Commodore    [MN5]
-------------------------------
+Ranks: Commander & Commodore
+
 Rank Strategy
 - These are pretty homogeneous missions.
 - Now it's easier to increase your rank.
@@ -1567,8 +1542,8 @@ All Targets: Time Warp Mission
   - Hitting the Launch Ramp increases the Rank Lights & Progress Lights
   - Hitting the Hyperspace Kicker decreases your rank by 1 and no Progress Lights are awarded. Any previously lit Progress Remain Lit.
 
-Ranks: Admiral & Fleet Admiral    [MN6]
-------------------------------
+Ranks: Admiral & Fleet Admiral
+
 Rank Strategy
 - Maelstrom's the best because of the points & rewards, but Cosmic Plague is easy.
 - Be wary of the Time Warp and don't get demoted.
@@ -1642,8 +1617,8 @@ All Targets: Maelstrom
   - Completing this mission lights out all your incremental bonus lights (Medal Targets, Booster Targets, Multiplier Targets & Hyperspace Lights) and awards all corresponding bonus'.
   - Completing this mission allows you to rack-up major points all over the Table.
 
-Mission Progress Notices    [MN7]
-------------------------------
+Mission Progress Notices
+
 Attack Bumper Hits Left:
 - Indicates the number of times to hit the Attack Bumpers.
   - Start value: 8
@@ -1799,8 +1774,8 @@ Upgrade Flags
 - Rank: Ensign & Lieutenant
 - Mission: Rescue
 
-Mission Completion Notices    [MN8]
-------------------------------
+Mission Completion Notices
+
 All Mission Completion notices are displayed in the Information Pane (See the
 'Score Board' section for more information) and followed by either "Mission
 Complete [points]" or "Promotion to [Rank]". Refer to the preceding portion of
@@ -1898,17 +1873,17 @@ Xenomorphs Destroyed
 - 7 Progress Lights awarded.
 - 750,000 Points awarded.
 
-Final Mission Note    [MN9]
-------------------------------
+Final Mission Note
+
 Some strategy guides/walkthroughs indicate that if you light all 18 Progress
 Light with a Rank of Fleet Admiral that the game will freeze and you will not
 be able to post your high score.  THIS IS NOT TRUE on my version so you may
 want to test it using the Cheat Codes before you're in a position where you
 have to choose to complete the Fleet Admiral rank and lock up the game.
 
-==========================================================================
-X. Secondary Objectives    [SO0]
-==========================================================================
+
+X. Secondary Objectives
+
 The following objectives are not strictly necessary in order to complete
 missions or increase in rank, however, they are very useful and many players
 will like to know the ways in which to achieve them.  Most of this information
@@ -1916,8 +1891,8 @@ is dispersed elsewhere throughout this guide but has been consolidated here for
 easier reference. Additional information on some of these topics can be found
 in the 'Bonus', Jackpots and Awards' section.
 
-Center Post    [SO1]
-------------------------------
+Center Post
+
 Overview
 - The Center Post is a small peg which rises from the table between the tips of the flippers.
 - When activated it greatly reduces the chances the ball will drain between the flippers.
@@ -1929,8 +1904,8 @@ Overview
   - The 3rd Hyperspace Chute Light may remain lit longer then the Center Post is active if the Hyperspace Kicker is entered While the Center Post is up.
   - The ball can still drain when the Center Post is active so don't be too careless and don't let the Ball rest on the Center Post and one of the Flippers.
 
-Extra Ball    [SO2]
-------------------------------
+Extra Ball
+
 Overview
 - Extra Balls allow a new ball to be played after one has drained without advancing the ball counter, however the table DOES reset.
 - Extra Balls may also be awarded using the cheat codes.
@@ -1963,8 +1938,8 @@ Level 3 Commendation
      - Science Mission (Cadet)
      - Bug Hunt Mission (Ensign & Lieutenant)
 
-Out-Lane Kickers    [SO3]
-------------------------------
+Out-Lane Kickers
+
 Overview
 - If the ball passes an Out-Lane it will either drain or enter an Out-Lane Kicker.
 - If the ball enters an Out-Lane Kicker it is kicked back through the Out-Lane and the kicker is deactivated.
@@ -1983,8 +1958,8 @@ Notes:
   - Stray Comet Mission (Captain & Lt. Commander) - All Right Hazard Lights are turned off.
   - Space Radiation Mission (Captain & Lt. Commander) - All Left Hazard Lights are turned off.
 
-Replay Ball    [SO4]
-------------------------------
+Replay Ball
+
 Overview
 - Replay Balls allow the same ball to be played after it has drained without advancing the ball counter AND without resetting the table.
 - Replay Balls are more valuable then Extra Balls but cannot be collected, however they can be awarded an unlimited number of times throughout a single game.
@@ -2010,8 +1985,8 @@ Wormhole Replay Ball
 - Notes:
   - If the Secret Mission has been aborted then the Wormholes will have to be re-activated by hitting the Wormhole Target before a Replay Ball can be awarded.
 
-Re-fuel    [SO5]
-------------------------------
+Re-fuel
+
 Overview
 - In order to complete any mission you must have "fuel" throughout the duration of that mission.
 - The amount of fuel is indicated by the Fuel Lights in the Fuel Chute.
@@ -2050,8 +2025,8 @@ Running Out of Fuel
   - When only the last Fuel Light remains lit the "Warning - Low Fuel" message will appear in the Instructional Pane of the Score Board.
   - If all the Fuel Lights go out the "Re-fuel Ship" message will appear in the Instructional pane of the Score Board.
 
-Skipping Ranks    [SO6]
-------------------------------
+Skipping Ranks
+
 Overview
 - "Skipping" a rank is a technique by which the number of Rank Lights is increased without being awarded all 18 progress lights.
 - "Skipping" a rank can be accomplished a number of ways with varying degrees of difficulty.  From easiest to hardest these are:
@@ -2093,8 +2068,8 @@ Early Mission Acceptance Skipping
     - Stray Comet Mission
     - Maelstrom Mission
 
-Upgrade Bumpers    [SO7]
-------------------------------
+Upgrade Bumpers
+
 Overview
 - Upgrading the bumpers makes the bumper worth more points when it is hit.
 - The bumpers can be upgraded 3 times each allowing for 4 different upgrade levels
@@ -2122,9 +2097,9 @@ Engine Bumpers
   - Each Flipper rotates the lights in a different direction.
 - Refer to 'Bumpers' in the 'Table Elements' section for information on point values at each level.
 
-==========================================================================
-XI. Bonus', Jackpots and Awards    [BN0]
-==========================================================================
+
+XI. Bonus', Jackpots and Awards
+
 Points are added to the Bonus & Jackpots at the base rate they are
   accumulated on the board.
 
@@ -2132,9 +2107,9 @@ Multipliers, Mission Awards, Bonuses & Jackpots are not added to the total.
 
 For more information see the 'Informational' part of the 'Messages' section.
 
-Bonus    [BN1]
-------------------------------
-Bonus Lane    [BNA]
+Bonus
+
+Bonus Lane
 - Awarded when the Ball passes the Bonus Lane and the Bonus Light is lit.
   - Base value: 10,000 points
   - To light the Bonus Lane Light a mission must be completed.
@@ -2144,7 +2119,7 @@ Bonus Lane    [BNA]
   - The Bonus is reset to its base value when the ball drains unless the Bonus Hold is on.
   - The maximum Bonus is 5,000,000 points.
 
-Crash Bonus    [BNB]
+Crash Bonus
 - Awarded when the Ball drains and no Replay is available.
   - Base value: 10,000 points
   - Increased to 25,000 points after a mission is selected.
@@ -2154,8 +2129,8 @@ Crash Bonus    [BNB]
   - The Bonus is reset to its base value when the ball drains unless the Bonus Hold is on.
   - The maximum Bonus is 5,000,000 points.
 
-Center Post    [BN2]
-------------------------------
+Center Post
+
 Awarded when the Hyperspace Kicker is entered 3 consecutive times.
 - Fixed value: 20,000 points
 
@@ -2163,8 +2138,8 @@ The Center Post is activated for approximately 60 sec. before it goes down.
 
 Refer to the Secondary Objectives section for more information.
 
-Extra Ball    [BN3]
-------------------------------
+Extra Ball
+
 Awarded when:
 - All 3 Medal Targets are dropped 3 consecutive times
 - An Out-Lane is passed while the Out-Lane Light is lit.
@@ -2176,8 +2151,8 @@ The maximum number of Extra Balls is unlimited.
 
 Refer to the Secondary Objectives section for more information.
 
-Field Multiplier    [BN4]
-------------------------------
+Field Multiplier
+
 Awarded when all 3 Multiplier Targets are dropped.
 
 All points scored directly on the board are multiplied by the value
@@ -2194,18 +2169,18 @@ The number of Multiplier Lights lit Indicates which multiplier is currently
 - 3 lights –  5x
 - 4 lights – 10x
 
-Flag Upgrade    [BN5]
-------------------------------
+Flag Upgrade
+
 All 3 Booster Targets are dropped for the 1st time.
 - Upgraded value: 2500 points per ½ spin
 
-Hyperspace Bonus    [BN6]
-------------------------------
+Hyperspace Bonus
+
 Awarded when the Ball enters the Hyperspace Kicker the first time.
 - Fixed value: 10,000 points
 
-Jackpot    [BN7]
-------------------------------
+Jackpot
+
 Awarded when the Ball enters the Hyperspace Kicker the 2 consecutive times.
 - Base value: 20,000 points
 
@@ -2213,16 +2188,16 @@ Drop all 3 Booster Targets 2 consecutive times to activate.
 - When activated points are added to the Jackpot as they are accumulated on the board.
 - The Jackpot is reset when it is awarded or the ball drains.
 
-Replay Ball    [BN8]
-------------------------------
+Replay Ball
+
 Awarded when the Ball enters an active Wormhole and exits same.
 - Fixed value: 2500 points
 - To rotate the Wormhole exit roll the Flags or hit the Wormhole Target.
 
 Refer to the Secondary Objectives section for more information.
 
-Reflex Shot Award    [BN9]
-------------------------------
+Reflex Shot Award
+
 Awarded when the Ball enters the Hyperspace Kicker or passes the Launch Ramp
   when the corresponding Reflex Shot Light is lit.
 
@@ -2230,8 +2205,8 @@ Reflex Shot light is temporarily lit after the ball exits the Launch Area or
   the Hyperspace Kicker.
 - Fixed value: 25,000 points
 
-Return Lane Bonus    [BN!]
-------------------------------
+Return Lane Bonus
+
 Awarded when the Ball passes a Return Lane when the associated Return Lane
   Light is lit.
 
@@ -2240,8 +2215,8 @@ Return Lane Lights are lit by hitting the Spacewarp Rollover.
 
 Once the bonus is awarded the Return Lane Light is extinguished.
 
-Skill Shot    [BN@]
-------------------------------
+Skill Shot
+
 Awarded when the Ball travels part way up the Deployment Chute and exits at
   the bottom of the chute through the Skill Shot Lane.
 
@@ -2256,9 +2231,9 @@ Points are awarded based on how far up the Deployment Chute the Ball traveled as
 A Skill Shot is not available on a Replay Ball but is available on an Extra
   Ball.
 
-==========================================================================
-XII. Multi-Player Mode    [MP0]
-==========================================================================
+
+XII. Multi-Player Mode
+
 Set the number of players by selecting 'Options' and 'Select Players from the
   pull-down menus
 - Switching the number of players automatically restarts the current game.
@@ -2281,9 +2256,9 @@ The "hidden_test" cheat code works for all players.
 To re-enter single player mode change the number of players to 1 using the
   pull down menu.
 
-==========================================================================
-XIII. Cheat Codes    [CC0]
-==========================================================================
+
+XIII. Cheat Codes
+
 The cheat codes can be used to play different levels, practice or examine
   specific table functions.
 
@@ -2297,8 +2272,8 @@ Scores achieved using the Test Codes can not be added to the 'High Scores
   List'.
 - Scores achieved using the "hidden test" code which are high enough to can be added to the 'High Scores List' will cause the "High Score" message to be displayed, however these scores are not added to the 'High Score List'.
 
-Max Codes    [CC1]
-------------------------------
+Max Codes
+
 "1max"
 - Awards an Extra Ball.
 - Type this code multiple times to get more Extra Balls.
@@ -2317,8 +2292,8 @@ Max Codes    [CC1]
 - Increases the number of Rank Lights by 1.
 - Type this code multiple times to further increase rank.
 
-Test Codes    [CC2]
-------------------------------
+Test Codes
+
 "hidden_test"
 - Enters 'Test Mode'
 - Allows the Ball to be moved with the mouse by clicking & holding in the game window.
@@ -2331,16 +2306,16 @@ Test Codes    [CC2]
   - "y" – Displays the game frame-rate in the title bar.
 - The "Max" codes do not work while 'test mode' is active.
 
-==========================================================================
-XIV. Advice & Strategy    [AS0]
-==========================================================================
+
+XIV. Advice & Strategy
+
 This section is intended to aid new and advanced players in increasing both
 their score and enjoyment of the game. Strategy and advice is subjective. If
 you don't agree or have an alternate strategy which works for you then, by all
 means, ignore this section.
 
-General Advice    [AS1]
-------------------------------
+General Advice
+
 Be flexible.
 - Know what you want to do and set floating priorities.
 - Update and revise your priorities as the table changes.
@@ -2376,8 +2351,8 @@ The game moves different speeds depending on how many applications you have
 Even when the Center Post is up the Ball can still drain so be careful.
 - Don't let the Ball rest on the Center Post and one of the Flippers.
 
-Specific Advice    [AS2]
-------------------------------
+Specific Advice
+
 If you have one of the upper level multipliers (3x, 5x or 10x) it's worth it
   to get the Gravity Well, it can be worth up to 1.5 million points.
 
@@ -2408,8 +2383,8 @@ There are a couple of tricks so only one mission needs to be completed to
   upgrade the Rank Lights.
 - See the "Skipping Ranks" part of the "Secondary Objectives" section for more information.
 
-Things to Get Good At    [AS3]
-------------------------------
+Things to Get Good At
+
 Catching the Ball on the Flippers.
 - Do this by holding the flipper keys so the Ball comes to rest on the Flippers before shooting the Ball up the table.
   - Refer to 'Catching' in the 'Concepts section for more information.
@@ -2443,9 +2418,9 @@ Hitting the left Medal Target.
 - Do this by shooting the Ball from the middle of the Right Flipper or using the Launch Ramp Skill Shot technique from the Left Flipper.
 - This allows you to receive Commendations & Extra Balls.
 
-==========================================================================
-XV. Frequently Asked Question (FAQ) & Comments    [FQ0]
-==========================================================================
+
+XV. Frequently Asked Question (FAQ) & Comments
+
 Why did you write this guide?
 - Refer the the 'Guide Pupose' part of the 'The Guide' section.
 
@@ -2532,9 +2507,9 @@ When will you update this guide again?
 - The 'Version History' section below can give you an idea about the randomness of the updates.
 - New revisions will most likely be more like "refinements" from this point forward, anyway.
 
-==========================================================================
-XVI. Thanks    [TX0]
-==========================================================================
+
+XVI. Thanks
+
 Thanks to www.network-science.de/ascii/ for the ASCII title.
 
 Thanks to GameSpot.com for help with the Copyright Section & Cheat Codes.
@@ -2557,9 +2532,9 @@ Thanks to all those who wrote lousy guides for this game.  Without you this
 
 Thanks to you for reading this guide.
 
-==========================================================================
-XVII. Version History    [VH0]
-==========================================================================
+
+XVII. Version History
+
 Version 1.0
   Date: 1-10-2007
 - Initial Version
@@ -2632,6 +2607,5 @@ Version 1.5.2
   - Light all 3 Right Hazard Target Lights
   - Light all 3 Left Hazard Target Lights
 
-==========================================================================
-XVIII. End of Guide    [EG0]
-==========================================================================
+
+XVIII. End of Guide
