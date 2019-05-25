@@ -16,13 +16,13 @@
 
 Index
 
-I.     Copyright
+I. Copyright
 
-II.    The Guide
+II. The Guide
 - Guide Purpose
 - Using This Guide
 
-III.   Concepts
+III. Concepts
 - Pinball Basics
 - Catching
 - Drain
@@ -33,20 +33,20 @@ III.   Concepts
 - End of Game
 - High Scores
 
-IV.    Game Information
+IV. Game Information
 - Version
 - Operating System
 - Synopsis
 
-V.     Program Controls & Menus
+V. Program Controls & Menus
 - Game Controls
 - Menus
 - Function Keys
 - Dialog Boxes
 
-VI.    Scoreboard
+VI. Scoreboard
 
-VII.   Table
+VII. Table
 - Areas
 - Drain Area
 - Launch Area
@@ -139,11 +139,11 @@ VII.   Table
 - Space Warp
 - Tilt
 
-VIII.  Messages
+VIII. Messages
 - Informational
 - Instructional
 
-IX.    Missions
+IX. Missions
 - Mission Basics
 - Rank : Cadet
 - Ranks: Ensign & Lieutenant
@@ -154,7 +154,7 @@ IX.    Missions
 - Mission Completion Notices
 - Final Mission Note
 
-X.     Secondary Objectives
+X. Secondary Objectives
 - Center Post
 - Extra Ball
 - Out-lane Kickers
@@ -163,7 +163,7 @@ X.     Secondary Objectives
 - Skipping Ranks
 - Upgrade Bumpers
 
-XI.    Bonus', Jackpots & Awards
+XI. Bonus', Jackpots & Awards
 - Bonus
 - Bonus Lane
 - Crash Bonus
@@ -178,22 +178,22 @@ XI.    Bonus', Jackpots & Awards
 - Return Lane Bonus
 - Skill Shot
 
-XII.   Multi-Player Mode
+XII. Multi-Player Mode
 
-XIII.  Cheat Codes
+XIII. Cheat Codes
 - Max Codes
 - Test Codes
 
-XIV.   Advice & Strategy
+XIV. Advice & Strategy
 - General Advice
 - Specific Advice
 - Things to Get Good At
 
-XV.    Frequently Asked Questions (FAQ) & Comments
+XV. Frequently Asked Questions (FAQ) & Comments
 
-XVI.   Thanks
+XVI. Thanks
 
-XVII.  Version History
+XVII. Version History
 
 XVIII. End of Guide
 
@@ -211,56 +211,56 @@ II. The Guide
 
 Guide Purpose
 
-This guide was created to address certain short-comings, errors and inaccuracies observed in the game Help and other 3D Space Cadet Pinball Guides found online.  It is intended to be the most complete and the most accurate guide for 3D Space Cadet Pinball available. If you can't find what you're looking for here it probably doesn't exist.
+This guide was created to address certain short-comings, errors and inaccuracies observed in the game Help and other 3D Space Cadet Pinball Guides found online. It is intended to be the most complete and the most accurate guide for 3D Space Cadet Pinball available. If you can't find what you're looking for here it probably doesn't exist.
 
 III. Concepts
 
 The following sections present basic pinball ideas as they relate to 3D Space
-Cadet Pinball.  They are intended to aid younger players who may have never
-before heard of or seen pinball previously.  For more information the Wikipedia
+Cadet Pinball. They are intended to aid younger players who may have never
+before heard of or seen pinball previously. For more information the Wikipedia
 reference to pinball is very informative.
 
 Pinball Basics
 
-Pinball is a type of coin-operated arcade game where a player attempts to score points by manipulating one or more metal balls on a playfield or table inside a glass covered case called a pinball machine.  The primary objective of the game is to score as many points as possible.  The Secondary objective is to maximize the time spent playing.  Some games, including 3D Space Cadet Pinball, have rudimentary storylines to play through offering the player additional objectives and sense of accomplishment.  The player begins with a limited number of balls (typically 3) to accomplish these goals.
+Pinball is a type of coin-operated arcade game where a player attempts to score points by manipulating one or more metal balls on a playfield or table inside a glass covered case called a pinball machine. The primary objective of the game is to score as many points as possible. The Secondary objective is to maximize the time spent playing. Some games, including 3D Space Cadet Pinball, have rudimentary storylines to play through offering the player additional objectives and sense of accomplishment. The player begins with a limited number of balls (typically 3) to accomplish these goals.
 
-Pinball on the computer is based on the physical pinball machine. Pinball machines were introduced in the early 1930s and became a dominant form of entertainment for youth after World War II through the late 1970s.  They were eventually overtaken by electronic video games as the game of choice in arcades.
+Pinball on the computer is based on the physical pinball machine. Pinball machines were introduced in the early 1930s and became a dominant form of entertainment for youth after World War II through the late 1970s. They were eventually overtaken by electronic video games as the game of choice in arcades.
 
-All modern pinball machines consist of a table, plunger, flippers and various other table elements used to score points.  The table itself is where the rest of the elements reside.  It is sloped slightly from back to front allowing the ball to move by gravity toward the player and the bottom of the table.  The ball is initially propelled onto the table via the plunger.
+All modern pinball machines consist of a table, plunger, flippers and various other table elements used to score points. The table itself is where the rest of the elements reside. It is sloped slightly from back to front allowing the ball to move by gravity toward the player and the bottom of the table. The ball is initially propelled onto the table via the plunger.
 
 The plunger is a spring-loaded rod with a small handle which is pulled back and let go to allow the ball to be struck and sent onto the table. The player can control the amount of force used for launching by pulling the plunger varying distances, thus changing the compression of the spring. This is often used for a "skill shot", in which a player attempts to launch a ball so that it exactly hits a specified target. Once the ball is in motion on the table the plunger is not used again until the ball drains (see below) and another ball must be brought onto the table.
 
-Once on the table the ball interacts with the table elements primarily by striking them.  For each element struck points are added to the score. Pinball scoring can be peculiar and varies greatly from machine to machine. For more particulars on how points are scored for 3D Space Cadet Pinball refer to the Table and Bonus’, Jackpots & Awards sections.
+Once on the table the ball interacts with the table elements primarily by striking them. For each element struck points are added to the score. Pinball scoring can be peculiar and varies greatly from machine to machine. For more particulars on how points are scored for 3D Space Cadet Pinball refer to the Table and Bonus’, Jackpots & Awards sections.
 
-The player’s primary means of controlling the ball once it’s been put into play on the table is via the flippers.  Traditionally there are 2 flippers (left & right) located at the bottom of the table.  The player activates the flippers in order to send the ball back up the table into the scoring elements and away from the Drain Area.
+The player’s primary means of controlling the ball once it’s been put into play on the table is via the flippers. Traditionally there are 2 flippers (left & right) located at the bottom of the table. The player activates the flippers in order to send the ball back up the table into the scoring elements and away from the Drain Area.
 
 For more information on table elements refer to the 'Table' section.
 
 Catching
 
-Catching is a term used to describe the act of allowing the ball to come to rest on one of the flippers.  It is a higher level technique used to gain added control over the ball and allow the player to more accurately send the ball up the table at a desired target.
+Catching is a term used to describe the act of allowing the ball to come to rest on one of the flippers. It is a higher level technique used to gain added control over the ball and allow the player to more accurately send the ball up the table at a desired target.
 
-Typically the player catches the ball by holding the flipper in the activated position a having the ball fall on to it.  This allows the ball to bounce between the flipper and the return lane eventually coming to rest at the base of the flipper.  The player then releases the flipper, allows the ball to roll down the flipper to the desired distance then activates the flipper again.
+Typically the player catches the ball by holding the flipper in the activated position a having the ball fall on to it. This allows the ball to bounce between the flipper and the return lane eventually coming to rest at the base of the flipper. The player then releases the flipper, allows the ball to roll down the flipper to the desired distance then activates the flipper again.
 
 The ball can also be caught as it drops to the flipper through the return lane.
 
 Drain
 
-The ball drains when it falls below the flippers and off the bottom of the table.  The ball can drain by either dropping between the flippers or passing one of the Out-Lanes.  3D Space Cadet Pinball has Out-Lane Kickers which can save the ball from being drained and send it back up the table.
+The ball drains when it falls below the flippers and off the bottom of the table. The ball can drain by either dropping between the flippers or passing one of the Out-Lanes. 3D Space Cadet Pinball has Out-Lane Kickers which can save the ball from being drained and send it back up the table.
 
 For more information on the Out-Lane Kickers refer to the 'Secondary Objectives' section.
 
 Table Reset
 
-Table reset occurs after the ball drains.  It returns all the targets and lights to their default settings.
+Table reset occurs after the ball drains. It returns all the targets and lights to their default settings.
 
 In 3D Space Cadet Pinball the lights indicating the player’s progress through the story (Rank & Progress Lights) are not reset with the rest of the table.
 
 Extra Balls
 
-Typically the player begins with 3 balls available and after these balls drain the current game is over.  Extra balls, sometimes known as Free Balls, are balls which allow the player to continue play without advancing the ball counter.  Extra Balls can typically be collected in great numbers.
+Typically the player begins with 3 balls available and after these balls drain the current game is over. Extra balls, sometimes known as Free Balls, are balls which allow the player to continue play without advancing the ball counter. Extra Balls can typically be collected in great numbers.
 
-If a ball drains and an extra ball has been awarded then the table resets (see above) and a new ball is placed at the plunger.  This new ball, however, does not count towards the 3 balls with which the player begins.  Once the last awarded extra ball drains the ball counter advances as normal.
+If a ball drains and an extra ball has been awarded then the table resets (see above) and a new ball is placed at the plunger. This new ball, however, does not count towards the 3 balls with which the player begins. Once the last awarded extra ball drains the ball counter advances as normal.
 
 Extra Balls can be equated to an extra life in most video games.
 
@@ -268,7 +268,7 @@ For more information on Extra Balls refer to the 'Secondary Objectives' section.
 
 Replay Balls
 
-Replay balls are similar to extra balls with one major difference: if the current ball drains and a replay ball has previously been awarded (is available) then the table DOES NOT reset.  The new ball placed in the plunger is, for all intent and purposes, the same ball which just drained and the player is allowed to continue the game as if the ball never drained in the first place.
+Replay balls are similar to extra balls with one major difference: if the current ball drains and a replay ball has previously been awarded (is available) then the table DOES NOT reset. The new ball placed in the plunger is, for all intent and purposes, the same ball which just drained and the player is allowed to continue the game as if the ball never drained in the first place.
 
 Just as with Extra Balls the ball counter does not advance after the ball drains if a replay is available, however, only one replay ball may typically be collected at any one time.
 
@@ -278,9 +278,9 @@ For more information on Replay Balls refer to the 'Secondary Objectives' section
 
 Nudge/Tilt
 
-Nudging is the secondary way in which the player controls the ball.  On physical pinball machines, if the player wished to affect the balls movement when it was not within range of the flippers they would physically jostle the machine.  This would affect the angel of the table and cause the ball to roll in a different direction.  Nudging the table could be considered a form of cheating and is, therefore, limited by the tilt function.
+Nudging is the secondary way in which the player controls the ball. On physical pinball machines, if the player wished to affect the balls movement when it was not within range of the flippers they would physically jostle the machine. This would affect the angel of the table and cause the ball to roll in a different direction. Nudging the table could be considered a form of cheating and is, therefore, limited by the tilt function.
 
-If the table were nudged or tilted too far or for too long then the table will realize that the player is trying to gain an unfair advantage. This results in the table entering "tilt" mode.  All player inputs and all table functions are ceased causing the current ball to drain.  The table then resets (see above) and play continues as normal.
+If the table were nudged or tilted too far or for too long then the table will realize that the player is trying to gain an unfair advantage. This results in the table entering "tilt" mode. All player inputs and all table functions are ceased causing the current ball to drain. The table then resets (see above) and play continues as normal.
 
 For more information refer to "TILT!" in the 'Informational'part of the 'Messages' section.
 
@@ -292,7 +292,7 @@ The ball counter on the score board indicates the current ball count. This count
 
 High Scores
 
-If the game ends and the player has achieved a high enough score then that score and the players name can be added to the High Score Table.  This is a list of all the high scores which have been achieved on a particular machine. It allows players to brag to their friends and display their skill to others who play on the same machine.
+If the game ends and the player has achieved a high enough score then that score and the players name can be added to the High Score Table. This is a list of all the high scores which have been achieved on a particular machine. It allows players to brag to their friends and display their skill to others who play on the same machine.
 
 For more information refer to "High Scores" Dialog Box in the 'Program Controls & Menus' section.
 
@@ -426,7 +426,7 @@ Help
 VI. Scoreboard
 
 The Scoreboard takes up the right side of the game window or screen (full
-screen mode).  It is where information about the game is displayed.  The
+screen mode). It is where information about the game is displayed. The
 Scoreboard is comprised of a number of displays (panes) which show different
 information.
 
@@ -459,15 +459,15 @@ Score Pane
 VII. Table
 
 The table takes up the left side of the game window or screen (full screen
-mode). It is where the game is played.  The ball tends to travel by "gravity"
-from the top of the Table to the bottom.  The Table is comprised of a number of
+mode). It is where the game is played. The ball tends to travel by "gravity"
+from the top of the Table to the bottom. The Table is comprised of a number of
 different areas, elements and lights which affect the ball and how points are
 scored.
 
 Areas
 
 Areas are spaces on the table through which the ball must pass in order to
-  complete certain actions or objectives.  There are 3 areas on the Table.
+  complete certain actions or objectives. There are 3 areas on the Table.
 
 Drain Area
 - Space at the bottom of the Table just below the Flippers and Return Lanes.
@@ -490,7 +490,7 @@ Re-entry Area
 Elements
 
 BUMPERS
-Bumpers are white & mushroom shaped with colored lights on top.  There are 7
+Bumpers are white & mushroom shaped with colored lights on top. There are 7
   Bumpers and 3 types.
 
 For more information refer to 'Upgrade Bumpers' in the 'Secondary Objectives'
@@ -516,7 +516,7 @@ Engine Bumpers
 
 Satellite (Remote Attack) Bumper
 - 1 Bumper at the top left of the Table.
-- Considered one of the Attack Bumpers in most situations.  
+- Considered one of the Attack Bumpers in most situations.
 - Upgrades with the Attack Bumpers.
 - The color of the light on top of the Bumper indicates the upgrade level.
   - Blue    – 1500 points
@@ -525,7 +525,7 @@ Satellite (Remote Attack) Bumper
   - Red    – 4500 points
 
 CHUTES & RAMPS
-Chutes & Ramps are paths for the Ball to follow.  There are 4 total.
+Chutes & Ramps are paths for the Ball to follow. There are 4 total.
 
 Deployment Chute
 - Chute at the right side of the Table where the game begins and the ball is sent after it drains.
@@ -1039,7 +1039,7 @@ Tilt
 
 VIII. Messages
 
-Mission Objectives & Notices are not included in this section.  Refer to the
+Mission Objectives & Notices are not included in this section. Refer to the
 Mission Section for more information those messages.
 
 Informational
@@ -1351,7 +1351,7 @@ All Targets: Science Mission
 - Objectives
   - Hit 9 Drop Targets.
 - Strategy
-  - Aim for the Booster & Medal Targets.  They're easiest to hit from the flippers.
+  - Aim for the Booster & Medal Targets. They're easiest to hit from the flippers.
 - Notes:
   - When accepted all Drop Targets will be raised.
   - If you are trying for extra Multipliers, Commendations or Play Modes you may not want to accept this mission
@@ -1384,7 +1384,7 @@ Middle Target: Rescue Mission
 - 7 progress lights for completing mission.
 - Objectives
   - Upgrade Flags.
-  - Enter the Hyperspace Kicker.  
+  - Enter the Hyperspace Kicker.
 - Strategy
   - Catch the Ball on the Left Flipper and hit the Booster Targets and Hyperspace Kicker.
 - Notes:
@@ -1894,7 +1894,7 @@ Final Mission Note
 
 Some strategy guides/walkthroughs indicate that if you light all 18 Progress
 Light with a Rank of Fleet Admiral that the game will freeze and you will not
-be able to post your high score.  THIS IS NOT TRUE on my version so you may
+be able to post your high score. THIS IS NOT TRUE on my version so you may
 want to test it using the Cheat Codes before you're in a position where you
 have to choose to complete the Fleet Admiral rank and lock up the game.
 
@@ -1903,7 +1903,7 @@ X. Secondary Objectives
 
 The following objectives are not strictly necessary in order to complete
 missions or increase in rank, however, they are very useful and many players
-will like to know the ways in which to achieve them.  Most of this information
+will like to know the ways in which to achieve them. Most of this information
 is dispersed elsewhere throughout this guide but has been consolidated here for
 easier reference. Additional information on some of these topics can be found
 in the 'Bonus', Jackpots and Awards' section.
@@ -2046,7 +2046,7 @@ Skipping Ranks
 
 Overview
 - "Skipping" a rank is a technique by which the number of Rank Lights is increased without being awarded all 18 progress lights.
-- "Skipping" a rank can be accomplished a number of ways with varying degrees of difficulty.  From easiest to hardest these are:
+- "Skipping" a rank can be accomplished a number of ways with varying degrees of difficulty. From easiest to hardest these are:
   - Mission Based Skipping
   - 4th Mission Drain Skipping
   - Early Mission Acceptance Skipping The 4th Mission Drain & Early Mission Acceptance techniques may be bugs.
@@ -2094,7 +2094,7 @@ Overview
   - Level 2: Green  (1st Upgrade)
   - Level 3: Yellow (2nd Upgrade)
   - Level 4: Red    (3rd Upgrade)
-- Once upgraded the bumpers remain at each level for approximately 60 seconds.  After that time the bumpers are downgraded 1 level.
+- Once upgraded the bumpers remain at each level for approximately 60 seconds. After that time the bumpers are downgraded 1 level.
   - Bumpers can only be upgraded 1 level at a time.
   - In order to increase to level 3 the bumpers must be upgraded while they are set a level 2.
   - In order to increase to level 4 the bumpers must be upgraded while they are set a level 3.
@@ -2279,7 +2279,7 @@ XIII. Cheat Codes
 The cheat codes can be used to play different levels, practice or examine
   specific table functions.
 
-Type cheat codes during game play.  No points are awarded for entering cheat
+Type cheat codes during game play. No points are awarded for entering cheat
   codes.
 
 Scores achieved while using the "Max Codes" cannot be added to the 'High
@@ -2317,7 +2317,7 @@ Test Codes
 - Once this code is entered it is active for the entire session.
   - The game must be closed and restarted to dismiss this code.
 - Use the following keys after the 'hidden_test' code has been entered:
-  - "h" – Changes the 2nd place score to 1,000,000,000 and allows the Player name to be entered.  Does not change 1st place, even if it's less that 1 Billion points.
+  - "h" – Changes the 2nd place score to 1,000,000,000 and allows the Player name to be entered. Does not change 1st place, even if it's less that 1 Billion points.
   - "m" – Displays the system memory in a separate window.
   - "r" – Increases the number of Rank Lights by 1.
   - "y" – Displays the game frame-rate in the title bar.
@@ -2373,7 +2373,7 @@ Specific Advice
 If you have one of the upper level multipliers (3x, 5x or 10x) it's worth it
   to get the Gravity Well, it can be worth up to 1.5 million points.
 
-The Yellow Wormhole is easiest to hit, followed by the Red.  Try to use these
+The Yellow Wormhole is easiest to hit, followed by the Red. Try to use these
   two to receive Replays.
 - These 2 Wormholes can be hit directly from either flipper.
 
@@ -2385,7 +2385,7 @@ If 2 or more Medal Lights are lit concentrate at hitting the Medal Targets.
 
 When the Ball is kicked out of the Black Hole Kicker it will hit the middle
   Medal Target.
-- If this target is up the Ball will rebound into the right Out-Lane about 50% of the time.  Try and nudge the table to keep this from happening.
+- If this target is up the Ball will rebound into the right Out-Lane about 50% of the time. Try and nudge the table to keep this from happening.
 - If this target is down the Ball will hit the right Medal Target and normally rebound to the upper part of the table.
 - If both the middle & right Medal Targets are down the Ball will bounce and hit the bottom Booster Target then rebound to the Left Flipper.
   - If the bottom Booster Target is down the Ball will bounce between the flippers and drain if the Center Post is not up. Try and nudge the table to keep this from happening.
@@ -2424,7 +2424,7 @@ Sending the Ball into the Yellow Wormhole.
 - This allows you to get a Replay Ball when the Wormhole Exit Light is Yellow.
 
 Launch Ramp Skill Shots.
-- Do this by catching the Ball with the Left Flipper as it drops through the Bonus Lane, but not allowing it to come to rest.  When it bounces out over the left Flipper shoot it back up the Launch Ramp.
+- Do this by catching the Ball with the Left Flipper as it drops through the Bonus Lane, but not allowing it to come to rest. When it bounces out over the left Flipper shoot it back up the Launch Ramp.
 - This allows you to complete missions and receive Skill Shot Awards.
 
 Hyperspace Skill Shots.
@@ -2496,7 +2496,7 @@ The cheat code you gave me doesn't work.
 - I don't know why it doesn't work on yours.
 
 I think your advice/strategy is stupid.
-- Fine.  Don't use it.
+- Fine. Don't use it.
 - It's how I achieved my high scores, but if your score is higher than 62.7 million you must have a better strategy so use that instead.
 
 Do you have a drawing showing all the table elements?  Can I get a copy?
@@ -2519,7 +2519,7 @@ But I have a question.
 - If you have a question that's not answered here I don't know the answer.
 
 When will you update this guide again?
-- There's no telling.  Be happy you've received any updates at all.
+- There's no telling. Be happy you've received any updates at all.
 - As I think of or discover new information which should be added I'll update, but it's already pretty complete.
 - The 'Version History' section below can give you an idea about the randomness of the updates.
 - New revisions will most likely be more like "refinements" from this point forward, anyway.
@@ -2544,7 +2544,7 @@ Thanks to Wikipedia for information on the history of Pinball and some of the
 Thanks to Sebastian for corrections information on the Meteor/Maelstrom
   lights.
 
-Thanks to all those who wrote lousy guides for this game.  Without you this
+Thanks to all those who wrote lousy guides for this game. Without you this
   guide wouldn't exist.
 
 Thanks to you for reading this guide.
