@@ -16,169 +16,186 @@
 
 Index
 
-I.     Copyright........................................................[CP0]
-II.    The Guide........................................................[GD0]
-    - Guide Purpose
-    - Using This Guide
-III.   Concepts.........................................................[CP0]
-    - Pinball Basics
-    - Catching
-    - Drain
-    - Table Reset
-    - Extra Balls
-    - Replay Balls
-    - Nudge/Tilt
-    - End of Game
-    - High Scores
-IV.    Game Information.................................................[GI0]
-    - Version
-    - Operating System
-    - Synopsis
-V.     Program Controls & Menus.........................................[CM0]
-    - Game Controls
-    - Menus
-    - Function Keys
-    - Dialog Boxes
-VI.    Scoreboard.......................................................[SB0]
-VII.   Table............................................................[TB0]
-    - Areas
-    - Drain Area
-    - Launch Area
-    - Re-entry Area
-    - Elements
-    - Bumpers
-    - Attack Bumpers
-    - Engine Bumpers
-    - Satellite Bumper
-    - Chutes & Ramps
-    - Deployment Chute
-    - Fuel Chute
-    - Hyperspace Chute
-    - Launch Ramp
-    - Flags
-    - Fuel Flag
-    - Huperspace Flag
-    - Kickers
-    - Blackhole Kicker
-    - Out-Lane Kickers
-    - Secondary Out-Lane Kicker
-    - Wormhole
-    - Lanes
-    - Bonus Lane
-    - Engine/Launch Lanes
-    - Out-Lanes
-    - Re-Entry Lanes
-    - Return Lanes
-    - Skill Shot Lane
-    - Rollovers
-    - Fuel Rollover
-    - Spacewarp Rollover
-    - Targets, Drop
-    - Booster Targets
-    - Medal Targets
-    - Multiplier Targets
-    - Targets, Spot
-    - Comet (Right Hazard) Targets
-    - Fuel Targets
-    - Mission Targets
-    - Radiation (Left Hazard) Targets
-    - Wormhole Target
-    - Miscellaneous Elements
-    - Center Post
-    - Rebounds
-    - Lights
-    - Chute Lights
-    - Deployment Chute
-    - Fuel Chute
-    - Launch Ramp
-    - Skill Shot Arrow (Hyperspace Chute)
-    - Skill Shot Arrow (Launch Ramp)
-    - Kicker Lights
-    - Gravity Well
-    - Hyperspace Kicker
-    - Out-Lane Kicker Arrow
-    - Replay
-    - Secondary Out-Lane Kicker Arrow
-    - Wormhole Exit Arrow
-    - Lane Lights
-    - Bonus Lane
-    - Engine/Launch Lanes
-    - Out-Lane (Extra Ball)
-    - Re-Entry Lanes
-    - Return Lanes
-    - Mission Lights
-    - Mission Accept Arrow
-    - Mission Arrows
-    - Maelstrom Hyperspace Arrow
-    - Progress
-    - Rank
-    - Time Warp Hyperspace Arrow
-    - Time Warp Launch Arrow
-    - Targets, Drop Lights
-    - Booster
-    - Field Multiplier
-    - Flag Upgrade
-    - Medal
-    - Targets, Spot Lights
-    - Comet
-    - Fuel
-    - Mission
-    - Radiation
-    - Wormhole
-    - Miscellaneous Lights
-    - Center Post
-    - Deployment Arrows
-    - Maelstrom
-    - Rebound
-    - Space Warp
-    - Tilt
-VIII.  Messages.........................................................[MG0]
-    - Informational
-    - Instructional
-IX.    Missions.........................................................[MN0]
-    - Mission Basics
-    - Rank : Cadet
-    - Ranks: Ensign & Lieutenant
-    - Ranks: Captain & Lt. Commander
-    - Ranks: Commander & Commodore
-    - Ranks: Admiral & Fleet Admiral
-    - Mission Progress Notices
-    - Mission Completion Notices
-    - Final Mission Note
-X.     Secondary Objectives.............................................[SO0]
-    - Center Post
-    - Extra Ball
-    - Out-lane Kickers
-    - Replay Ball
-    - Re-fuel
-    - Skipping Ranks
-    - Upgrade Bumpers
-XI.    Bonus', Jackpots & Awards........................................[BN0]
-    - Bonus
-    - Bonus Lane
-    - Crash Bonus
-    - Center Post
-    - Extra Ball
-    - Field Multiplier
-    - Flag Upgrade
-    - Hyperspace Bonus
-    - Jackpot
-    - Replay Ball
-    - Reflex Shot Award
-    - Return Lane Bonus
-    - Skill Shot
-XII.   Multi-Player Mode................................................[MP0]
-XIII.  Cheat Codes......................................................[CC0]
-    - Max Codes
-    - Test Codes
-XIV.   Advice & Strategy................................................[AS0]
-    - General Advice
-    - Specific Advice
-    - Things to Get Good At
-XV.    Frequently Asked Questions (FAQ) & Comments......................[FQ0]
-XVI.   Thanks...........................................................[TX0]
-XVII.  Version History..................................................[VH0]
-XVIII. End of Guide.....................................................[EG0]
+I.     Copyright
+
+II.    The Guide
+- Guide Purpose
+- Using This Guide
+
+III.   Concepts
+- Pinball Basics
+- Catching
+- Drain
+- Table Reset
+- Extra Balls
+- Replay Balls
+- Nudge/Tilt
+- End of Game
+- High Scores
+
+IV.    Game Information
+- Version
+- Operating System
+- Synopsis
+
+V.     Program Controls & Menus
+- Game Controls
+- Menus
+- Function Keys
+- Dialog Boxes
+
+VI.    Scoreboard
+
+VII.   Table
+- Areas
+- Drain Area
+- Launch Area
+- Re-entry Area
+- Elements
+- Bumpers
+- Attack Bumpers
+- Engine Bumpers
+- Satellite Bumper
+- Chutes & Ramps
+- Deployment Chute
+- Fuel Chute
+- Hyperspace Chute
+- Launch Ramp
+- Flags
+- Fuel Flag
+- Huperspace Flag
+- Kickers
+- Blackhole Kicker
+- Out-Lane Kickers
+- Secondary Out-Lane Kicker
+- Wormhole
+- Lanes
+- Bonus Lane
+- Engine/Launch Lanes
+- Out-Lanes
+- Re-Entry Lanes
+- Return Lanes
+- Skill Shot Lane
+- Rollovers
+- Fuel Rollover
+- Spacewarp Rollover
+- Targets, Drop
+- Booster Targets
+- Medal Targets
+- Multiplier Targets
+- Targets, Spot
+- Comet (Right Hazard) Targets
+- Fuel Targets
+- Mission Targets
+- Radiation (Left Hazard) Targets
+- Wormhole Target
+- Miscellaneous Elements
+- Center Post
+- Rebounds
+- Lights
+- Chute Lights
+- Deployment Chute
+- Fuel Chute
+- Launch Ramp
+- Skill Shot Arrow (Hyperspace Chute)
+- Skill Shot Arrow (Launch Ramp)
+- Kicker Lights
+- Gravity Well
+- Hyperspace Kicker
+- Out-Lane Kicker Arrow
+- Replay
+- Secondary Out-Lane Kicker Arrow
+- Wormhole Exit Arrow
+- Lane Lights
+- Bonus Lane
+- Engine/Launch Lanes
+- Out-Lane (Extra Ball)
+- Re-Entry Lanes
+- Return Lanes
+- Mission Lights
+- Mission Accept Arrow
+- Mission Arrows
+- Maelstrom Hyperspace Arrow
+- Progress
+- Rank
+- Time Warp Hyperspace Arrow
+- Time Warp Launch Arrow
+- Targets, Drop Lights
+- Booster
+- Field Multiplier
+- Flag Upgrade
+- Medal
+- Targets, Spot Lights
+- Comet
+- Fuel
+- Mission
+- Radiation
+- Wormhole
+- Miscellaneous Lights
+- Center Post
+- Deployment Arrows
+- Maelstrom
+- Rebound
+- Space Warp
+- Tilt
+
+VIII.  Messages
+- Informational
+- Instructional
+
+IX.    Missions
+- Mission Basics
+- Rank : Cadet
+- Ranks: Ensign & Lieutenant
+- Ranks: Captain & Lt. Commander
+- Ranks: Commander & Commodore
+- Ranks: Admiral & Fleet Admiral
+- Mission Progress Notices
+- Mission Completion Notices
+- Final Mission Note
+
+X.     Secondary Objectives
+- Center Post
+- Extra Ball
+- Out-lane Kickers
+- Replay Ball
+- Re-fuel
+- Skipping Ranks
+- Upgrade Bumpers
+
+XI.    Bonus', Jackpots & Awards
+- Bonus
+- Bonus Lane
+- Crash Bonus
+- Center Post
+- Extra Ball
+- Field Multiplier
+- Flag Upgrade
+- Hyperspace Bonus
+- Jackpot
+- Replay Ball
+- Reflex Shot Award
+- Return Lane Bonus
+- Skill Shot
+
+XII.   Multi-Player Mode
+
+XIII.  Cheat Codes
+- Max Codes
+- Test Codes
+
+XIV.   Advice & Strategy
+- General Advice
+- Specific Advice
+- Things to Get Good At
+
+XV.    Frequently Asked Questions (FAQ) & Comments
+
+XVI.   Thanks
+
+XVII.  Version History
+
+XVIII. End of Guide
 
 
 I. Copyright
