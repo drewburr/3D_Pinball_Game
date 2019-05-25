@@ -183,13 +183,7 @@ XVIII. End of Guide.....................................................[EG0]
 ==========================================================================
 I. Copyright    [CP0]
 ==========================================================================
-This guide may not be reproduced in-whole or in-part for any reasons other than
-personal or private use.  It may not be publicly distributed without the
-express written consent of the author.  Use of this guide without express
-written consent is strictly prohibited and a violation of copyright.
-
-All trademarks and copyrights contained in this document are owned by their
-respective trademark and copyright holders.
+Meh.
 
 Copyright 2006-2008 Michael Morin (Froesch14)
 Copyright 2019-2021 Drew Brown (drewburr9)
