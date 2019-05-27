@@ -5,8 +5,6 @@ See below for references to different sections of this repo.
 
 **In-depth 3D Pinball Guide**
 
-I. Copyright
-
 II. Intro to the Guide
 
 III. Concepts
