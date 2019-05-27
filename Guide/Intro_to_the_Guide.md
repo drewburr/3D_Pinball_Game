@@ -1,4 +1,4 @@
-# II. Intro to the Guide
+# Intro to the Guide
 
 Guide Purpose
 

@@ -1,4 +1,4 @@
-# XVI. Version History
+# Version History
 
 Version 1.0
   Date: 1-10-2007

@@ -1,9 +1,6 @@
-# VI. Scoreboard
+# Scoreboard
 
-The Scoreboard takes up the right side of the game window or screen (full
-screen mode). It is where information about the game is displayed. The
-Scoreboard is comprised of a number of displays (panes) which show different
-information.
+The Scoreboard takes up the right side of the game window or screen (full screen mode). It is where information about the game is displayed. The Scoreboard is comprised of a number of displays (panes) which show different information.
 
 ## Ball Pane
 - Small box at the top right.

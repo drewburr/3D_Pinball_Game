@@ -1,4 +1,4 @@
-# XI. Bonus, Jackpots & Awards
+# Bonus, Jackpots & Awards
 
 Points are added to the Bonus & Jackpots at the base rate they are accumulated on the board.
 

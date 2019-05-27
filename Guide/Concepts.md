@@ -1,4 +1,4 @@
-# III. Concepts
+# Concepts
 
 The following sections present basic pinball ideas as they relate to 3D Space
 Cadet Pinball. They are intended to aid younger players who may have never

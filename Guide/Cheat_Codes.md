@@ -1,4 +1,4 @@
-# XIII. Cheat Codes
+# Cheat Codes
 
 The cheat codes can be used to play different levels, practice or examine specific table functions.
 

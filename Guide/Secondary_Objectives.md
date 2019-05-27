@@ -1,4 +1,4 @@
-# X. Secondary Objectives
+# Secondary Objectives
 
 The following objectives are not strictly necessary in order to complete missions or increase in rank, however, they are very useful and many players will like to know the ways in which to achieve them. Most of this information is dispersed elsewhere throughout this guide but has been consolidated here for easier reference. Additional information on some of these topics can be found in the 'Bonus', Jackpots and Awards' section.
 

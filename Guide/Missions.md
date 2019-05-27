@@ -1,4 +1,4 @@
-# IX. Missions
+# Missions
 
 - Missions are the primary way to progress through the game.
 

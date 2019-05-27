@@ -1,4 +1,4 @@
-# XIV. Advice & Strategy
+# Advice & Strategy
 
 This section is intended to aid new and advanced players in increasing both
 their score and enjoyment of the game. Strategy and advice is subjective. If

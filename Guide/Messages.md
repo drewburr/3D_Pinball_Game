@@ -1,4 +1,4 @@
-# VIII. Messages
+# Messages
 
 Mission Objectives & Notices are not included in this section. Refer to the
 Mission Section for more information those messages.

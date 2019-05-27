@@ -1,4 +1,4 @@
-# VII. Table
+# Table
 
 The table takes up the left side of the game window or screen (full screen
 mode). It is where the game is played. The ball tends to travel by "gravity"

@@ -1,4 +1,4 @@
-# XV. Thanks
+# Thanks
 
 Thanks to www.network-science.de/ascii/ for the ASCII title.
 

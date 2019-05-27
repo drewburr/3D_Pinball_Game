@@ -1,4 +1,4 @@
-# V. Program Controls & Menus
+# Program Controls & Menus
 
 ## Game Controls
 

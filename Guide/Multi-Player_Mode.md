@@ -1,4 +1,4 @@
-# XII. Multi-Player Mode
+# Multi-Player Mode
 
 Set the number of players by selecting 'Options' and 'Select Players from the pull-down menus
 - Switching the number of players automatically restarts the current game.

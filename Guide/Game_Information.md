@@ -1,4 +1,4 @@
-# IV. Game Information
+# Game Information
 
 ## Version
 
