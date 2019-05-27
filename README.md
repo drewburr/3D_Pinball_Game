@@ -4,12 +4,12 @@ This repository is currently used to track the progress of making *3D Pinball: S
 See below for references to different sections of this repo, and beyond.
 
 ## Helpful videos
-[Build Your Own Pinball Machine - element14 presents](https://youtu.be/2KBVu5YLzZI)
-[How to build a pinball machine from scratch - phyxis101](https://youtu.be/w0rsRMapTBo)
-[Building Custom Pinball Machines (33c3) - media.ccc.de](https://youtu.be/SPmcOcF_G30)
+- [Build Your Own Pinball Machine - element14 presents](https://youtu.be/2KBVu5YLzZI)
+- [How to build a pinball machine from scratch - phyxis101](https://youtu.be/w0rsRMapTBo)
+- [Building Custom Pinball Machines (33c3) - media.ccc.de](https://youtu.be/SPmcOcF_G30)
 
 ## Installing *3D Pinball: Space Cadet*
-***Requires WinRAR*** [WinRAR 5.71](https://www.rarlab.com/rar/winrar-x64-571.exe)
+***Requires WinRAR*** - [WinRAR 5.71](https://www.rarlab.com/rar/winrar-x64-571.exe)
 
 ### Windows and WinRAR
 
