@@ -10,7 +10,7 @@ See below for references to different sections of this repo, and beyond.
 
 ## Table Blueprint
 
-Received by exporting blueprint from the [Virtual Pinball](###Windows and Virtual Pinball) model.
+Received by exporting blueprint from the [Virtual Pinball](#windows-and-virtual-pinball) model.
 
 [Blueprint Image](Blueprint.md)
 
