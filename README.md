@@ -3,7 +3,8 @@
 This repository is currently used to track the progress of making *3D Pinball: Space Cadet*, IRL.
 See below for references to different sections of this repo.
 
-**In-depth 3D Pinball Guide**
+## In-depth 3D Pinball Guide
+
 This is to be used as a reference when programming the table
 - [Intro to the Guide]("Guide/Intro_to_the_Guide.md")
 - [Concepts]("Guide/Concepts.md")
