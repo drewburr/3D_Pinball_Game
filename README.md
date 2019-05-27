@@ -9,12 +9,23 @@ See below for references to different sections of this repo, and beyond.
 [Building Custom Pinball Machines (33c3) - media.ccc.de](https://youtu.be/SPmcOcF_G30)
 
 ## Installing *3D Pinball: Space Cadet*
-
 ***Requires WinRAR*** [WinRAR 5.71](https://www.rarlab.com/rar/winrar-x64-571.exe)
+
+### Windows and WinRAR
 
 Download and run the [WinRAR installer](Files\3d_pinball_space_cadet.exe) for 3D Pinball: Space Cadet.
 
 This should install *3D Pinball: Space Cadet*, and add a game shortcut to your desktop.
+
+### Windows and Virtual Pinball
+***NOTE***
+
+This version of the game is not 1-to-1 with the Windows XP version. However, it does enable exporting of 3D models and blueprints, as well as show the logic used to program the game.
+
+- Download and install the [Virtual Pinball](https://vpinball.com/VPBdownloads/vpx-installer-10-5-0/) software
+- Download and extract the contents of [Space_Cadet-022118a.zip](Files\Space_Cadet-022118a.zip)
+- Execute **spacecadet 022118a.vpx** to run the game
+
 
 ## In-depth 3D Pinball Guide
 
@@ -34,3 +45,7 @@ This is to be used as a reference when programming the table.
 - [Advice and Strategy](Guide/Advice_and_Strategy.md)
 - [Thanks](Guide/Thanks.md)
 - [Version History](Guide/Version_History.md)
+
+## Programming Information
+
+This project is currently set to be programmed in Python3, using [Mission Pinball Framework](http://docs.missionpinball.org/en/latest/#) as the backend.
