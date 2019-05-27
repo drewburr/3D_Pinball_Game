@@ -445,15 +445,18 @@ Spinning a flag changes the Wormhole Exit Light color if the Wormhole is opened.
 ### Fuel Flag
 - Points are awarded based on the status of the Booster Target Lights.
 
-|--------------|----------
-| No Booster  | 500 points per 1/2 spin
-| Booster Lit | 2500 points per 1/2 spin
+| Booster Status | Points Awarded
+|--------------- |----------
+| No Booster     | 500 points per 1/2 spin
+| Booster Lit    | 2500 points per 1/2 spin
 
 ### Hyperspace Flag
 - Points are awarded based on the status of the Booster Target Lights.
 
-| No Booster  | 500 points per 1/2 spin
-| Booster Lit | 2500 points per 1/2 spin
+| Booster Status | Points Awarded
+| -------------- |--------------
+| No Booster     | 500 points per 1/2 spin
+| Booster Lit    | 2500 points per 1/2 spin
 
 ## Kickers
 Areas where the Ball is stopped and "kicked" out.
@@ -479,12 +482,15 @@ There are 9 kickers on the Table.
 - If the Ball re-enters the kicker while the Hyperspace Reflex Light is lit then a Reflex Shot is awarded.
 - Points are awarded based on which Hyperspace Lights is lit.
 
-| 1st entry | 1st light | 10,000 points (Hyperspace Bonus)
-| 2nd entry | 2nd light | 20,000 points + the Jackpot (Jackpot Awarded)
-| 3rd light | 20,000 points + the Center Post is raised.
-| 4th light | 50,000 points + Extra Ball Available
-| Lights reset | 150,000 points + Gravity Well Activated
-| Reflex Shot | +20,000 points
+| Event identifier         | Points Awarded
+|------------------------- | --------------------
+| Reflex Shot light active | 20,000 points
+| 1st light activates      | 10,000 points (Hyperspace Bonus)
+| 2nd light activates      | 20,000 points + the Jackpot (Jackpot Awarded)
+| 3rd light activates      | 20,000 points + the Center Post is raised.
+| 4th light                | 50,000 points + Extra Ball Available
+| Lights reset             | 150,000 points + Gravity Well Activated
+
 
 ### Out-Lane Kicker
 - Located at the bottom of the two Out-Lanes at the bottom-left & bottom-right of the table.
@@ -582,36 +588,44 @@ There 9 Drop Targets located throughout the Table.
 ### Booster Targets
 - 3 Drop Targets grouped at the middle-right of the table.
 - Drop all 3 Targets to activate a play mode.
+  - Play modes are active for a limited amount of time.
+  - The lowest play mode not active is activated when all the targets are dropped.
 - Receive additional Play Modes if all the previous Booster Lights are lit.
-  - 1st & 2nd Target - 500 points each
-  - 3rd Target - 5000 points + Play Mode
-  - 1st play mode (bottom light) - Upgrade Flags
-  - 2nd play mode (bottom-middle light) - Activate Jackpot
-  - 3rd play mode (top-middle light) - Activate Bonus
-  - 4th play mode (top light) - Bonus Hold
-- Play modes are active for a limited amount of time.
-- The lowest play mode not active is activated when all the targets are dropped.
+
+| Target / Play mode                  | Points Awarded
+|------------------------------------ |-----------------
+| 1st & 2nd Target                    | 500 points each
+| 3rd Target                          | 5000 points + Play Mode
+| 1st play mode (bottom light)        | Upgrade Flags
+| 2nd play mode (bottom-middle light) | Activate Jackpot
+| 3rd play mode (top-middle light)    | Activate Bonus
+| 4th play mode (top light)           | Bonus Hold
 
 ### Medal Targets
 - 3 Drop Targets grouped at the center of the table.
 - Drop all 3 Targets to receive a Commendation.
 - Receive higher Commendations if previous Metal Target Light is still lit.
-  - 1st & 2nd Targets - 1500 points each
-  - Level 1 Commendation - 10,000 points
-  - Level 2 Commendation - 50,000 points
-  - Level 3 Commendation - 0 points + Extra Ball
+
+| Target / Level       | Points Awarded
+|--------------------- |------------------
+| 1st & 2nd Targets    | 1500 points each
+| Level 1 Commendation | 10,000 points
+| Level 2 Commendation | 50,000 points
+| Level 3 Commendation | 0 points + Extra Ball
 
 ### Multiplier Targets
 - 3 Drop Targets grouped at the top-left of the table above the Attack Bumpers.
 - Drop all 3 Targets to receive a Field Multiplier.
 - Receive higher Field Multipliers if the previous Field Multiplier Light is still lit.
-  - 1st 2 Targets - 500 points each
-  - 3rd Target - 1500 points x Field Multiplier
-- Field Multipliers are awarded in the following order:
-  - 1st Multiplier - 2x
-  - 2nd Multiplier - 3x
-  - 3rd Multiplier - 5x
-  - 4th Multiplier - 10x
+
+| Target / Multiplier count | Points / Multiplier Awarded
+|-------------------------- |----------------------------
+| 1st 2 Targets             | 500 points each
+| 3rd Target                | 1500 points x Field Multiplier
+| 1st Multiplier            | 2x
+| 2nd Multiplier            | 3x
+| 3rd Multiplier            | 5x
+| 4th Multiplier            | 10x
 - Multipliers are applied to all points scored on the table except Jackpots, Bonus' and Mission Completion Awards.
 
 ## Targets, Spot
@@ -682,9 +696,12 @@ Hitting a Spot Target lights the corresponding Target Light.
 
 #### Launch Ramp
 - Single Light at the top of the Launch Ramp.
-  - Off - No mission is selected.
-  - Blinking - Hit the ramp to accept the current mission.
-  - On - A mission is active.
+
+| Light State | Meaning
+|------------ |--------------
+| Off         | No mission is selected.
+| Blinking    | Hit the ramp to accept the current mission.
+| On          | A mission is active.
 
 #### Skill Shot Arrow, Hyperspace Chute
 - Top arrow of the 3 arrows located at the bottom of the Hyperspace Chute.
@@ -739,6 +756,7 @@ Hitting a Spot Target lights the corresponding Target Light.
 - Goes out when a Ball enters any wormhole.
 
 ### Lane Lights
+
 #### Bonus Lane
 - Single light in the Bonus Lane.
 - Indicates a bonus is available in this lane.
@@ -795,15 +813,17 @@ See the 'Missions' section for more information.
 #### Rank
 - 9 yellow lights set in a circle at the bottom-center of the Table.
 - The number of lights lit indicate the current Rank
-  - 1 light - Cadet
-  - 2 lights - Ensign
-  - 3 lights - Lieutenant
-  - 4 lights - Captain
-  - 5 lights - Lt. Commander
-  - 6 lights - Commander
-  - 7 lights - Commodore
-  - 8 lights - Admiral
-  - 9 lights - Fleet Admiral
+| Lights  | Current Rank
+|-------- | ---------
+| 1 light | Cadet
+| 2 lights| Ensign
+| 3 lights| Lieutenant
+| 4 lights| Captain
+| 5 lights| Lt. Commander
+| 6 lights| Commander
+| 7 lights| Commodore
+| 8 lights| Admiral
+| 9 lights| Fleet Admiral
 
 #### Time Warp Hyperspace Arrow
 - Middle of the 3 arrows at the bottom of the Hyperspace Chute.
@@ -815,7 +835,7 @@ See the 'Missions' section for more information.
 
 ### Drop Target Lights
 
-####Booster
+#### Booster
 - 4 lights associated with the Booster Targets.
 - Lights are lit by hitting all 3 Booster Targets.
   - Hit all 3 targets consecutive times to activate additional Play Modes.
@@ -833,11 +853,14 @@ See the 'Missions' section for more information.
   - Hit all 3 targets consecutive times to increase the Field
  Multiplier.
 - Indicates which multiplier is currently being applied
-  - 0 lights - 1x
-  - 1 light - 2x
-  - 2 lights - 3x
-  - 3 lights - 5x
-  - 4 lights - 10x
+
+| Lights  | Multiplier
+|-------- |----------------
+| 0 lights| 1x
+| 1 light | 2x
+| 2 lights| 3x
+| 3 lights| 5x
+| 4 lights| 10x
 - Lights are extinguished in order after approximately 60 seconds.
 
 #### Flag Upgrade
@@ -851,11 +874,13 @@ See the 'Missions' section for more information.
 - 3 lights associated with the Medal Target Targets.
 - Lights are lit (Commendation Awarded) by hitting all 3 Medal Targets.
   - Hit all 3 targets consecutive times to increase the Commendation.
+  - Lights are extinguished in order after approximately 60 seconds.
 - Indicates which Commendation has been awarded
-  - 1 light - Level 1 Commendation
-  - 2 lights - Level 2 Commendation
-  - 3 lights - Level 3 Commendation (Extra Ball awarded)
-- Lights are extinguished in order after approximately 60 seconds.
+
+| Lights  | Commendation level
+| 1 light | Level 1 Commendation
+| 2 lights| Level 2 Commendation
+| 3 lights| Level 3 Commendation (Extra Ball awarded)
 
 ### Targets, Spot Lights
 
@@ -1174,15 +1199,18 @@ Difficulty levels listed are subjective and relative within each rank.
 Accumulate 18 Progress lights to increase in rank.
 
 Ranks are as follows:
-- 1 Rank Light - Cadet
-- 2 Rank Lights - Ensign
-- 3 Rank Lights - Lieutenant
-- 4 Rank Lights - Captain
-- 5 Rank Lights - Lt. Commander
-- 6 Rank Lights - Commander
-- 7 Rank Lights - Commodore
-- 8 Rank Lights - Admiral
-- 9 Rank Lights - Fleet Admiral
+
+| Rank Lights   | Rank
+|-------------- |----------
+| 1 Rank Light  | Cadet
+| 2 Rank Lights | Ensign
+| 3 Rank Lights | Lieutenant
+| 4 Rank Lights | Captain
+| 5 Rank Lights | Lt. Commander
+| 6 Rank Lights | Commander
+| 7 Rank Lights | Commodore
+| 8 Rank Lights | Admiral
+| 9 Rank Lights | Fleet Admiral
 
 ## Rank: Cadet
 
@@ -2045,8 +2073,10 @@ All points scored directly on the board are multiplied by the value indicated.
 Bonus', Jackpots, and Mission acceptance & completion awards are NOT multiplied.
 
 The number of Multiplier Lights lit Indicates which multiplier is currently being applied:
+| Lights   | Multiplier
+|--------- |--------
 | 0 lights | 1x
-| 1 light | 2x
+| 1 light  | 2x
 | 2 lights | 3x
 | 3 lights | 5x
 | 4 lights | 10x
@@ -2099,12 +2129,15 @@ Once the bonus is awarded the Return Lane Light is extinguished.
 Awarded when the Ball travels part way up the Deployment Chute and exits at the bottom of the chute through the Skill Shot Lane.
 
 Points are awarded based on how far up the Deployment Chute the Ball traveled as indicated by the Deployment Lights.
-- 1 light - 15,000 points
-- 2 lights - 30,000 points
-- 3 lights - 75,000 points
-- 4 lights - 30,000 points
-- 5 lights - 15,000 points
-- 6 lights - 7500 points
+
+| Lights   | Points Awarded
+|--------- |-----------------
+| 1 light  | 15,000 points
+| 2 lights | 30,000 points
+| 3 lights | 75,000 points
+| 4 lights | 30,000 points
+| 5 lights | 15,000 points
+| 6 lights | 7500 points
 
 A Skill Shot is not available on a Replay Ball but is available on an Extra Ball.
 
@@ -2170,11 +2203,11 @@ Scores achieved using the Test Codes can not be added to the 'High Scores List'.
   - The "Max" codes do not work while test mode is active.
 - Use the following keys after the "hidden test" code has been entered:
 | Key | effect
-|----|------
-| h | Changes the 2nd place score to 1,000,000,000 and allows the Player name to be entered. Does not change 1st place, even if it's less that 11 billion points.
-| m | Displays the system memory in a separate window.
-| r | Increases the number of Rank Lights by 1.
-| y | Displays the game frame-rate in the title bar.
+|---- |------
+| h   | Changes the 2nd place score to 1,000,000,000 and allows the Player name to be entered. Does not change 1st place, even if it's less that 11 billion points.
+| m   | Displays the system memory in a separate window.
+| r   | Increases the number of Rank Lights by 1.
+| y   | Displays the game frame-rate in the title bar.
 
 # XIV. Advice & Strategy
 
