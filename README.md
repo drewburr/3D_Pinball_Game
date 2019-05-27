@@ -8,6 +8,12 @@ See below for references to different sections of this repo, and beyond.
 - [How to build a pinball machine from scratch - phyxis101](https://youtu.be/w0rsRMapTBo)
 - [Building Custom Pinball Machines (33c3) - media.ccc.de](https://youtu.be/SPmcOcF_G30)
 
+## Table Blueprint
+
+Received by exporting blueprint from the [Virtual Pinball](### Windows and Virtual Pinball) model.
+
+[Blueprint Image](Files/blueprint.bmp)
+
 ## Installing *3D Pinball: Space Cadet*
 ***Requires WinRAR*** - [WinRAR 5.71](https://www.rarlab.com/rar/winrar-x64-571.exe)
 
@@ -26,7 +32,6 @@ This version of the game is not 1-to-1 with the Windows XP version. However, it 
 - Download and extract the contents of [Space_Cadet-022118a.zip](Files\Space_Cadet-022118a.zip)
   - [Original download](https://vpinball.com/VPBdownloads/space-cadet-vpx/)
 - Execute **spacecadet 022118a.vpx** to run the game
-
 
 ## In-depth 3D Pinball Guide
 
