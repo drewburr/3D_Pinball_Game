@@ -67,13 +67,11 @@ XIII. Cheat Codes
 
 XIV. Advice & Strategy
 
-XV. Frequently Asked Questions (FAQ) & Comments
+XV. Thanks
 
-XVI. Thanks
+XVI. Version History
 
-XVII. Version History
-
-XVIII. End of Guide
+XVII. End of Guide
 
 # I. Copyright
 
@@ -2290,95 +2288,7 @@ There are a couple of tricks so only one mission needs to be completed to
 - Do this by shooting the Ball from the middle of the Right Flipper or using the Launch Ramp Skill Shot technique from the Left Flipper.
 - This allows you to receive Commendations & Extra Balls.
 
-# XV. Frequently Asked Question (FAQ) & Comments
-
-## Why did you write this guide?
-- Refer the the 'Guide Purpose' part of the 'The Guide' section.
-
-## Where can I find this game?
-- The original version of the game was developed by Cinematronics and published by Maxis in 1995 as part of "Full Tilt! Pinball".
-- The original Windows version came with 'Windows 95 Plus!' add-on.
-- My version of the game shipped with Windows XP.
-- You can also find it on the internet if you put in a little time.
-  - Do a search for "3D Pinball Space Cadet Download"
-  - Be weary. I've seen a version out there which is exactly the same but all the messages are in German!
-
-## What's your high score?
-- 62,689,750 (that's over 62.6 million) with no cheating.
-- My low high score (5th highest) is just over 46 million.
-
-## Only 62 Million?
-- I actually may have been able to get more points, but I was playing under the (incorrect) impression that if you got 18 progress lights with a rank of Fleet Admiral that the game would freeze and you wouldn't be able to post your high score.
-
-## This game is so basic. Why is this guide so long?
-- As simple as the game may seem there's a lot of complexity hiding under the surface.
-- If you want to be really proficient at pinball there's more to it then hitting the flippers and watching the ball bounce around.
-
-## Where'd you get all this information? How did you compile this guide?
-- I began by playing (a lot) and noting my observations.
-- I used the cheat codes (especially "hidden_test") to test what happened in different scenarios, note how many points different elements were worth and validate other observations.
-
-## What happens if the score board 'rolls over' (score reaches 1 billion)?
-- It resets to 0 and then continues to accumulate points as normal.
-- The game cannot accept high scores over 1 Billion points.
-
-## How do the Jackpots/Bonuses work?
-- It's complicated.
-- See the Bonus', Jackpots & Awards Section.
-
-## Does the game freezes if you advance beyond the Rank of Fleet Admiral?
-- I've seen this noted on certain websites & walkthroughs and found it to be untrue.
-- It may have been an earlier bug the fixed with the XP version.
-- If you're worried about the possibility use the cheat codes and check for yourself. (That's what I did.)
-
-## Did I skip a rank? How did that happen?
-- You may have.
-- Check the 'Skipping Ranks' part of the 'Secondary Objectives' section for various rank "skipping" techniques.
-
-## I changed the number of players but it didn't seem to work. What's the deal?
-- This appears to be a bug in the game.
-- In order to change the number of players you must do one of the following things:
-  - Change the number of players then Exit and restart the game.
-  - Begin a game and then change the number of players. This will cancel the current game. Any high scores achieved during the canceled game will not be saved.
-
-## The Ball went through my flipper! Aaaargh!!!
-- This has happed to me a few times.
-- I don't know what causes it and, yes, it is very annoying.
-
-## The cheat code you gave me doesn't work.
-- They all work on my version.
-- I don't know why it doesn't work on yours.
-
-## I think your advice/strategy is stupid.
-- Fine. Don't use it.
-- It's how I achieved my high scores, but if your score is higher than 62.7 million you must have a better strategy so use that instead.
-
-## Do you have a drawing showing all the table elements?  Can I get a copy?
-- I do have a drawing, but you can't contact me so unless it's in the same place you found this guide you probably can't get a copy.
-- If you check the game Help there's a decent drawing with the elements labeled, but be wary of the associated advice, it's not all accurate.
-
-## I found an error or omission, can I contact you?
-- No.
-- As I find these I'll update them, but just about everything's already in here.
-
-## But I really want to contact you.
-- No.
-- Go away.
-- Stop bothering me.
-  - If you're really desperate and somewhat resourceful you should be able to find a way to contact me (I'm talking about you, Sebastian), but I'm not going to tell you how.
-
-## But I have a question.
-- Everything I know is in this guide.
-- I've put in a lot of time and made it as accurate as possible.
-- If you have a question that's not answered here I don't know the answer.
-
-## When will you update this guide again?
-- There's no telling. Be happy you've received any updates at all.
-- As I think of or discover new information which should be added I'll update, but it's already pretty complete.
-- The 'Version History' section below can give you an idea about the randomness of the updates.
-- New revisions will most likely be more like "refinements" from this point forward, anyway.
-
-# XVI. Thanks
+# XV. Thanks
 
 Thanks to www.network-science.de/ascii/ for the ASCII title.
 
@@ -2400,7 +2310,7 @@ Thanks to you for reading this guide.
 
 Thanks to froesch14 for hating the original guide so much, you decided to make your own.
 
-# XVII. Version History
+# XVI. Version History
 
 Version 1.0
   Date: 1-10-2007
