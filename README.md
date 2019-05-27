@@ -4,70 +4,19 @@ This repository is currently used to track the progress of making *3D Pinball: S
 See below for references to different sections of this repo.
 
 **In-depth 3D Pinball Guide**
-
-II. Intro to the Guide
-
-III. Concepts
-- Pinball Basics
-- Catching
-- Drain
-- Table Reset
-- Extra Balls
-- Replay Balls
-- Nudge/Tilt
-- End of Game
-- High Scores
-
-IV. Game Information
-- Version
-- Operating System
-- Synopsis
-
-V. Program Controls & Menus
-- Game Controls
-- Menus
-- Function Keys
-- Dialog Boxes
-
-VI. Scoreboard
-
-VII. Table
-- Areas
-- Elements
-- Lights
-
-VIII. Messages
-- Informational
-- Instructional
-
-IX. Missions
-- Mission Basics
-- Rank : Cadet
-- Ranks: Ensign & Lieutenant
-- Ranks: Captain & Lt. Commander
-- Ranks: Commander & Commodore
-- Ranks: Admiral & Fleet Admiral
-- Mission Progress Notices
-- Mission Completion Notices
-- Final Mission Note
-
-X. Secondary Objectives
-- Center Post
-- Extra Ball
-- Out-lane Kickers
-- Replay Ball
-- Re-fuel
-- Skipping Ranks
-- Upgrade Bumpers
-
-XI. Bonus', Jackpots & Awards
-
-XII. Multi-Player Mode
-
-XIII. Cheat Codes
-
-XIV. Advice & Strategy
-
-XV. Thanks
-
-XVI. Version History
+This is to be used as a reference when programming the table
+- ['Intro to the Guide']('Guide/Intro to the Guide.md')
+- ['Concepts']('Guide/Concepts.md')
+- ['Game Information']('Guide/Game Information.md')
+- ['Program Controls & Menus']('Guide/Program Controls & Menus.md')
+- ['Scoreboard']('Guide/Scoreboard.md')
+- ['Table']('Guide/Table.md')
+- ['Messages']('Guide/Messages.md')
+- ['Missions']('Guide/Missions.md')
+- ['Secondary Objectives']('Guide/Secondary Objectives.md')
+- ['Bonus, Jackpots & Awards']('Guide/Bonus, Jackpots & Awards.md')
+- ['Multi-Player Mode']('Guide/Multi-Player Mode.md')
+- ['Cheat Codes']('Guide/Cheat Codes.md')
+- ['Advice & Strategy']('Guide/Advice & Strategy.md')
+- ['Thanks']('Guide/Thanks.md')
+- ['Version History']('Guide/Version History.md')
