@@ -10,9 +10,9 @@ See below for references to different sections of this repo, and beyond.
 
 ## Table Blueprint
 
-Received by exporting blueprint from the [Virtual Pinball](### Windows and Virtual Pinball) model.
+Received by exporting blueprint from the [Virtual Pinball](###Windows and Virtual Pinball) model.
 
-[Blueprint Image](Files/blueprint.bmp)
+[Blueprint Image](Blueprint.md)
 
 ## Installing *3D Pinball: Space Cadet*
 ***Requires WinRAR*** - [WinRAR 5.71](https://www.rarlab.com/rar/winrar-x64-571.exe)
