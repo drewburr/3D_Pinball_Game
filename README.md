@@ -24,6 +24,7 @@ This version of the game is not 1-to-1 with the Windows XP version. However, it 
 
 - Download and install the [Virtual Pinball](https://vpinball.com/VPBdownloads/vpx-installer-10-5-0/) software
 - Download and extract the contents of [Space_Cadet-022118a.zip](Files\Space_Cadet-022118a.zip)
+  - [Original download](https://vpinball.com/VPBdownloads/space-cadet-vpx/)
 - Execute **spacecadet 022118a.vpx** to run the game
 
 
