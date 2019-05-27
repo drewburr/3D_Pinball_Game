@@ -1,5 +1,3 @@
-[Original](https://gamefaqs.gamespot.com/pc/563047-3d-pinball-space-cadet/faqs/46514) by Froesch14
-
 # Index
 
 I. Copyright
@@ -2329,7 +2327,7 @@ Thanks to all those who wrote lousy guides for this game. Without you this guide
 
 Thanks to you for reading this guide.
 
-Thanks to froesch14 for hating the original guide so much, you decided to make your own.
+Thanks to froesch14 for hating the original guide so much, you decided to make your own. (https://gamefaqs.gamespot.com/pc/563047-3d-pinball-space-cadet/faqs/46514)
 
 # XVI. Version History
 
