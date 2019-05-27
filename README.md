@@ -1,7 +1,12 @@
 # 3D Pinball Game
 
 This repository is currently used to track the progress of making *3D Pinball: Space Cadet*, IRL.
-See below for references to different sections of this repo.
+See below for references to different sections of this repo, and beyond.
+
+## Helpful videos
+[Build Your Own Pinball Machine - element14 presents](https://youtu.be/2KBVu5YLzZI)
+[How to build a pinball machine from scratch - phyxis101](https://youtu.be/w0rsRMapTBo)
+[Building Custom Pinball Machines (33c3) - media.ccc.de](https://youtu.be/SPmcOcF_G30)
 
 ## Installing *3D Pinball: Space Cadet*
 
@@ -10,7 +15,6 @@ See below for references to different sections of this repo.
 Download and run the [WinRAR installer](Files\3d_pinball_space_cadet.exe) for 3D Pinball: Space Cadet.
 
 This should install *3D Pinball: Space Cadet*, and add a game shortcut to your desktop.
-
 
 ## In-depth 3D Pinball Guide
 
