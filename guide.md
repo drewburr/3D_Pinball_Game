@@ -49,7 +49,7 @@ VII. Table
 - Launch Ramp
 - Flags
 - Fuel Flag
-- Huperspace Flag
+- Hyperspace Flag
 - Kickers
 - Blackhole Kicker
 - Out-Lane Kickers
@@ -268,7 +268,7 @@ Nudging is the secondary way in which the player controls the ball. On physical 
 
 If the table were nudged or tilted too far or for too long then the table will realize that the player is trying to gain an unfair advantage. This results in the table entering "tilt" mode. All player inputs and all table functions are ceased causing the current ball to drain. The table then resets (see above) and play continues as normal.
 
-For more information refer to "TILT!" in the 'Informational'part of the 'Messages' section.
+For more information refer to "TILT!" in the 'Informational' part of the 'Messages' section.
 
 ## End of Game
 
@@ -335,7 +335,7 @@ Go to the Options menu and select Keyboard Controls to change the Default Contro
 Menus may be accessed by clicking on the Menu name at the top of the Game
 Window.
 
-## Game Menu
+### Game Menu
 - New Game
   - Starts a new game.
 - Launch Ball
@@ -349,7 +349,7 @@ Window.
 - Exit
   - Closes the game window.
 
-## Options Menu
+### Options Menu
 - Full Screen
   - Resizes the game to Full Screen. Hit [F4] or to toggle back to window mode.
 - Select Players
@@ -362,7 +362,7 @@ Window.
 - Player Controls...
   - Opens the Player Controls Dialog Box
 
-## Help Menu
+### Help Menu
 - Help Topics [F1]
   - Accesses the Help dialog box.
 - About Pinball
@@ -390,19 +390,19 @@ Window.
 
 ## Dialog Boxes
 
-High Scores
+### High Scores
 - Shows the top 5 high scores and the players who scored them.
 - After a High Score is achieved this box is opened and the player is able to enter their name.
 - Click "OK" or "Cancel" to close dialog box.
 - Click "Clear" to reset all high scores to 0 (Confirmation Required).
 
-## Player Controls
+### Player Controls
 - Allows the default Player Controls to be changed.
 - Use the pull downs to change which keys control specific functions.
 - Click "OK" to save changes, "Cancel" to keep the same settings and "Default" to changes all controls to the default settings
   - See the 'Game Controls' section for default control settings.
 
-## Help
+### Help
 - Accesses the Help information for the game.
   - Use the "Contents", "Index", and "Search" tabs to find information you want.
   - Note: The in-game help isn't completely accurate and doesn't always have the information you may be looking for, hence this guide.
@@ -991,6 +991,7 @@ Booster
   - Light goes out when a Wormhole is entered
 
 ### Miscellaneous Lights
+
 #### Center Post
 - Single light located between the Flippers.
 - Indicates the Center Post is activated.
@@ -1059,7 +1060,7 @@ Board (See the 'Score Board' section for more information).
 - Means the Center Post is raised for a limited amount of time.
 
 ### Continue Play
-- Happens when the game has been unpaused by pressing F3.
+- Happens when the game has been un-paused by pressing F3.
 - Means that game play has resumed.
 
 ### Crash Bonus
@@ -1160,7 +1161,7 @@ Board (See the 'Score Board' section for more information).
 ### Skill Shot
   - Happens when the Ball exits the bottom of the Deployment Chute.
   - Means extra points have been awarded based on the degree of the Skill Shot.
-    * See 'Chutes & Ramps' in the Table Elements Section.
+    - See 'Chutes & Ramps' in the Table Elements Section.
 
 ### TILT!
 - Happens when a 'nudge' key has been held to long and the table has 'Tilted'.
@@ -1243,14 +1244,12 @@ All instructional messages are displayed in the Information Pane (See the
 
 # IX. Missions
 
-Missions are the primary way to progress through the game.
+- Missions are the primary way to progress through the game.
 
-Missions give the player a set of goals and sense of accomplishment beyond
-  simply accumulating points.
+- Missions give the player a set of goals and sense of accomplishment beyond simply accumulating points.
 
-It is not required that any missions be completed, but they are the fastest
-  way to accumulate points.
-- For more information on game strategy refer to the 'Secondary Objectives' and 'Advice and Strategy' sections.
+- It is not required that any missions be completed, but they are the fastest way to accumulate points.
+  - For more information on game strategy refer to the 'Secondary Objectives' and 'Advice and Strategy' sections.
 
 ## Mission Basics
 
@@ -1777,10 +1776,7 @@ Rank Strategy
 
 ## Mission Completion Notices
 
-All Mission Completion notices are displayed in the Information Pane (See the
-'Score Board' section for more information) and followed by either "Mission
-Complete [points]" or "Promotion to [Rank]". Refer to the preceding portion of
-this section for more information.
+All Mission Completion notices are displayed in the Information Pane (See the 'Score Board' section for more information) and followed by either "Mission Complete [points]" or "Promotion to [Rank]". Refer to the preceding portion of this section for more information.
 
 ### Aliens Repelled
 - The Alien Menace Mission has been completed.
@@ -1876,21 +1872,12 @@ this section for more information.
 
 ## Final Mission Note
 
-Some strategy guides/walkthroughs indicate that if you light all 18 Progress
-Light with a Rank of Fleet Admiral that the game will freeze and you will not
-be able to post your high score. THIS IS NOT TRUE on my version so you may
-want to test it using the Cheat Codes before you're in a position where you
-have to choose to complete the Fleet Admiral rank and lock up the game.
+Some strategy guides/walkthroughs indicate that if you light all 18 Progress Light with a Rank of Fleet Admiral that the game will freeze and you will not be able to post your high score. THIS IS NOT TRUE on my version so you may want to test it using the Cheat Codes before you're in a position where you have to choose to complete the Fleet Admiral rank and lock up the game.
 
 
 # X. Secondary Objectives
 
-The following objectives are not strictly necessary in order to complete
-missions or increase in rank, however, they are very useful and many players
-will like to know the ways in which to achieve them. Most of this information
-is dispersed elsewhere throughout this guide but has been consolidated here for
-easier reference. Additional information on some of these topics can be found
-in the 'Bonus', Jackpots and Awards' section.
+The following objectives are not strictly necessary in order to complete missions or increase in rank, however, they are very useful and many players will like to know the ways in which to achieve them. Most of this information is dispersed elsewhere throughout this guide but has been consolidated here for easier reference. Additional information on some of these topics can be found in the 'Bonus', Jackpots and Awards' section.
 
 ## Center Post
 
@@ -2215,7 +2202,7 @@ Reflex Shot light is temporarily lit after the ball exits the Launch Area or
 Awarded when the Ball passes a Return Lane when the associated Return Lane
   Light is lit.
 
-Return Lane Lights are lit by hitting the Spacewarp Rollover.
+Return Lane Lights are lit by hitting the Space Warp Rollover.
 - Fixed value: 25,000 points
 
 Once the bonus is awarded the Return Lane Light is extinguished.
@@ -2427,7 +2414,7 @@ There are a couple of tricks so only one mission needs to be completed to
 # XV. Frequently Asked Question (FAQ) & Comments
 
 ## Why did you write this guide?
-- Refer the the 'Guide Pupose' part of the 'The Guide' section.
+- Refer the the 'Guide Purpose' part of the 'The Guide' section.
 
 ## Where can I find this game?
 - The original version of the game was developed by Cinematronics and published by Maxis in 1995 as part of "Full Tilt! Pinball".
@@ -2475,7 +2462,7 @@ There are a couple of tricks so only one mission needs to be completed to
   - Change the number of players then Exit and restart the game.
   - Begin a game and then change the number of players. This will cancel the current game. Any high scores achieved during the canceled game will not be saved.
 
-## The Ball went through my flipper!  Aaaargh!!!
+## The Ball went through my flipper! Aaaargh!!!
 - This has happed to me a few times.
 - I don't know what causes it and, yes, it is very annoying.
 
@@ -2523,17 +2510,13 @@ Thanks to Gamefaqs.com for hosting this guide.
 
 Thanks to Cinematronics and Maxis for creating such a fun game.
 
-Thanks to Wikipedia for the reference to the original Windows Version
-  (http://en.wikipedia.org/wiki/Full_Tilt%21_Pinball#Space_Cadet).
+Thanks to Wikipedia for the reference to the original Windows Version (http://en.wikipedia.org/wiki/Full_Tilt%21_Pinball#Space_Cadet).
 
-Thanks to Wikipedia for information on the history of Pinball and some of the
-  information in the 'Concepts' section (http://en.wikipedia.org/wiki/Pinball).
+Thanks to Wikipedia for information on the history of Pinball and some of the information in the 'Concepts' section (http://en.wikipedia.org/wiki/Pinball).
 
-Thanks to Sebastian for corrections information on the Meteor/Maelstrom
-  lights.
+Thanks to Sebastian for corrections information on the Meteor/Maelstrom lights.
 
-Thanks to all those who wrote lousy guides for this game. Without you this
-  guide wouldn't exist.
+Thanks to all those who wrote lousy guides for this game. Without you this guide wouldn't exist.
 
 Thanks to you for reading this guide.
 
@@ -2587,7 +2570,7 @@ Version 1.5
 - Miscellaneous minor/general updates and corrections.
 - Added 'Upgrade Bumpers' to the 'Secondary Objectives' section.
 - Added information on the Multiplayer Bug to the 'Multi-player' and 'FAQ' sections.
-- Relocated the informaton on Skipping Ranks to the 'Missions' section and removed most of it from the 'FAQ' section.
+- Relocated the information on Skipping Ranks to the 'Missions' section and removed most of it from the 'FAQ' section.
 
 Version 1.5.1
   Date: 08-01-08
@@ -2599,7 +2582,7 @@ Version 1.5.1
 Version 1.5.2
   Date: 11-07-08
 - Miscellaneous minor/general updates and corrections.
-- Moved the 'Concepts' section infront of the 'Game Information' section.
+- Moved the 'Concepts' section in front of the 'Game Information' section.
 - Added section search codes ([XXX]) to the tertiary sections listed in the index, specifically to the Table: Areas, Elements & Lights sections and the Bonus', Jackpots & Awards: Bonus section.
 - Added a fourth level to the index for the Table section indicating what is included under each tertiary section.
 
