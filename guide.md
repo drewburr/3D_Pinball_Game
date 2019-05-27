@@ -75,15 +75,12 @@ XVII. Version History
 
 XVIII. End of Guide
 
-
 # I. Copyright
 
 Do what you want with this, it's just a guide.
 
 Copyright 2006-2008 Michael Morin (Froesch14)
 Copyright 2019-2021 Drew Brown (drewburr9)
-
-
 
 # II. Intro to the Guide
 
@@ -174,7 +171,6 @@ If the game ends and the player has achieved a high enough score then that score
 
 For more information refer to "High Scores" Dialog Box in the 'Program Controls & Menus' section.
 
-
 # IV. Game Information
 
 ## Version
@@ -195,7 +191,6 @@ Microsoft ® Windows ® XP Professional, Service Pack 2
 ## Synopsis
 
 You are a young Cadet trying to graduate from the Space Academy and make a name for yourself as an officer. Complete your training and prove your abilities in order to move up through the ranks and increase your score. Do you have what it takes to become a Fleet Admiral and save the Galaxy? In 3D Pinball Space Cadet you'll find out!
-
 
 # V. Program Controls & Menus
 
@@ -299,7 +294,6 @@ Window.
   - Use the "Contents", "Index", and "Search" tabs to find information you want.
   - Note: The in-game help isn't completely accurate and doesn't always have the information you may be looking for, hence this guide.
 
-
 # VI. Scoreboard
 
 The Scoreboard takes up the right side of the game window or screen (full
@@ -331,7 +325,6 @@ information.
 - Skinny box just below the Ball Box.
 - Indicates the score achieved in the current game.
 - Updates continuously as points are scored.
-
 
 # VII. Table
 
@@ -916,7 +909,6 @@ See the 'Missions' section for more information.
 - Indicates the Table has been tilted.
 - All Table functions cease when lit.
 
-
 # VIII. Messages
 
 Mission Objectives & Notices are not included in this section. Refer to the
@@ -1134,7 +1126,6 @@ All instructional messages are displayed in the Information Pane (See the
 - Happens when only 1 Fuel Light remains lit.
 - Send the Ball up the Fuel Chute, through the Bonus Lane, into the Left Out-Lane Kicker, or hit all 3 Fuel Targets to Re-fuel.
   - Refer to the Secondary Objectives section for more information.
-
 
 # IX. Missions
 
@@ -1768,7 +1759,6 @@ All Mission Completion notices are displayed in the Information Pane (See the 'S
 
 Some strategy guides/walkthroughs indicate that if you light all 18 Progress Light with a Rank of Fleet Admiral that the game will freeze and you will not be able to post your high score. THIS IS NOT TRUE on my version so you may want to test it using the Cheat Codes before you're in a position where you have to choose to complete the Fleet Admiral rank and lock up the game.
 
-
 # X. Secondary Objectives
 
 The following objectives are not strictly necessary in order to complete missions or increase in rank, however, they are very useful and many players will like to know the ways in which to achieve them. Most of this information is dispersed elsewhere throughout this guide but has been consolidated here for easier reference. Additional information on some of these topics can be found in the 'Bonus', Jackpots and Awards' section.
@@ -1983,7 +1973,6 @@ Overview
   - Each Flipper rotates the lights in a different direction.
 - Refer to 'Bumpers' in the 'Table Elements' section for information on point values at each level.
 
-
 # XI. Bonus', Jackpots & Awards
 
 Points are added to the Bonus & Jackpots at the base rate they are
@@ -2117,7 +2106,6 @@ Points are awarded based on how far up the Deployment Chute the Ball traveled as
 A Skill Shot is not available on a Replay Ball but is available on an Extra
   Ball.
 
-
 # XII. Multi-Player Mode
 
 Set the number of players by selecting 'Options' and 'Select Players from the
@@ -2141,7 +2129,6 @@ The "hidden_test" cheat code works for all players.
 
 To re-enter single player mode change the number of players to 1 using the
   pull down menu.
-
 
 # XIII. Cheat Codes
 
@@ -2191,7 +2178,6 @@ Scores achieved using the Test Codes can not be added to the 'High Scores
   - "r" – Increases the number of Rank Lights by 1.
   - "y" – Displays the game frame-rate in the title bar.
 - The "Max" codes do not work while 'test mode' is active.
-
 
 # XIV. Advice & Strategy
 
@@ -2304,7 +2290,6 @@ There are a couple of tricks so only one mission needs to be completed to
 - Do this by shooting the Ball from the middle of the Right Flipper or using the Launch Ramp Skill Shot technique from the Left Flipper.
 - This allows you to receive Commendations & Extra Balls.
 
-
 # XV. Frequently Asked Question (FAQ) & Comments
 
 ## Why did you write this guide?
@@ -2392,7 +2377,6 @@ There are a couple of tricks so only one mission needs to be completed to
 - As I think of or discover new information which should be added I'll update, but it's already pretty complete.
 - The 'Version History' section below can give you an idea about the randomness of the updates.
 - New revisions will most likely be more like "refinements" from this point forward, anyway.
-
 
 # XVI. Thanks
 
