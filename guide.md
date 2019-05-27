@@ -1,18 +1,4 @@
-
-    _______    ___ _    _    _ _
-    |__ /    \  | _ (_)_ _ | |__  __ _| | |
-    |_ \ |) | |  _/ | ' \| '_ \/ _` | | |
-    |___/___/  |_| |_|_||_|_.__/\__,_|_|_|
-    ___    ___    _    _
-    / __|_ __  __ _ __ ___    /  _|__ _ __| |___| |_
-    \__ \ '_ \/ _` / _/ -_)  | (_/ _` / _` / -_)  _|
-    |___/ .__/\__,_\__\___|  \___\__,_\__,_\___|\__|
-    |_|    Ver. 1.5.2
-
-
-    Original by Froesch14
-    Revisions by drewburr
-
+[Original](https://gamefaqs.gamespot.com/pc/563047-3d-pinball-space-cadet/faqs/46514) by Froesch14
 
 # Index
 
@@ -2551,6 +2537,7 @@ Thanks to all those who wrote lousy guides for this game. Without you this
 
 Thanks to you for reading this guide.
 
+Thanks to froesch14 for hating the original guide so much, you decided to make your own.
 
 # XVII. Version History
 
@@ -2626,5 +2613,6 @@ Version 1.5.2
   - Light all 3 Right Hazard Target Lights
   - Light all 3 Left Hazard Target Lights
 
+Additional changes are recorded in this GitHub repository
 
 XVIII. End of Guide
