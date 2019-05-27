@@ -618,7 +618,7 @@ There 9 Drop Targets located throughout the Table.
 
 | Target / Multiplier count | Points / Multiplier Awarded
 |-------------------------- |----------------------------
-| 1st 2 Targets             | 500 points each
+| 1st & 2nd Targets         | 500 points each
 | 3rd Target                | 1500 points x Field Multiplier
 | 1st Multiplier            | 2x
 | 2nd Multiplier            | 3x
