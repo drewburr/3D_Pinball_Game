@@ -1,11 +1,20 @@
-# 3D_Pinball_Game
+# 3D Pinball Game
 
 This repository is currently used to track the progress of making *3D Pinball: Space Cadet*, IRL.
 See below for references to different sections of this repo.
 
+## Installing *3D Pinball: Space Cadet*
+
+***Requires WinRAR*** [WinRAR 5.71](https://www.rarlab.com/rar/winrar-x64-571.exe)
+
+Download and run the [WinRAR installer](Files\3d_pinball_space_cadet.exe) for 3D Pinball: Space Cadet.
+
+This should install *3D Pinball: Space Cadet*, and add a game shortcut to your desktop.
+
+
 ## In-depth 3D Pinball Guide
 
-This is to be used as a reference when programming the table
+This is to be used as a reference when programming the table.
 - [Intro to the Guide](Guide/Intro_to_the_Guide.md)
 - [Concepts](Guide/Concepts.md)
 - [Game Information](Guide/Game_Information.md)
