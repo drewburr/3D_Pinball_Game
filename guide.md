@@ -365,29 +365,38 @@ For more information refer to 'Upgrade Bumpers' in the 'Secondary Objectives' se
 - 3 Bumpers grouped at the top of the Table.
 - Upgrade by lighting all 3 Re-entry lane lights simultaneously.
 - The color of the light on top of the Bumper indicates the upgrade level.
-  - Blue - 500 points
-  - Green - 1000 points
-  - Yellow - 1500 points
-  - Red - 2000 points
+
+| Color/Level | Points per hit |
+|-------------|----------------|
+| Blue        | 500 points     |
+| Green       | 1000 points    |
+| Yellow      | 1500 points    |
+| Red         | 2000 points    |
 
 ### Engine Bumpers
 - 3 Bumpers grouped on the Launch Platform.
 - Upgrade by lighting all 3 Launch Lane lights simultaneously.
 - The color of the light on top of the Bumper indicates the upgrade level.
-  - Blue - 1500 points
-  - Green - 2500 points
-  - Yellow - 3500 points
-  - Red - 4500 points
+
+| Color/Level | Points per hit |
+|-------------|----------------|
+| Blue        | 1500 points     |
+| Green       | 2500 points    |
+| Yellow      | 3500 points    |
+| Red         | 4500 points    |
 
 ### Satellite (Remote Attack) Bumper
 - 1 Bumper at the top left of the Table.
 - Considered one of the Attack Bumpers in most situations.
 - Upgrades with the Attack Bumpers.
 - The color of the light on top of the Bumper indicates the upgrade level.
-  - Blue - 1500 points
-  - Green - 2500 points
-  - Yellow - 3500 points
-  - Red - 4500 points
+
+| Color/Level | Points per hit
+|-------------|----------------
+| Blue        | 1500 points     
+| Green       | 2500 points    
+| Yellow      | 3500 points    
+| Red         | 4500 points    
 
 ## Chutes & Ramps
 Chutes & Ramps are paths for the Ball to follow. There are 4 total.
@@ -396,12 +405,16 @@ Chutes & Ramps are paths for the Ball to follow. There are 4 total.
 - Chute at the right side of the Table where the game begins and the ball is sent after it drains.
 - Send the Ball up the chute by operating the plunger.
 - If the Ball exits the bottom of the chute (Skill Shot Lane) points are awarded based on the number of Deployment Lights lit.
-  - 1 light - 15,000 points
-  - 2 lights - 30,000 points
-  - 3 lights - 75,000 points
-  - 4 lights - 30,000 points
-  - 5 lights - 15,000 points
-  - 6 lights - 7,500 points
+
+| Lights lit | Points awarded
+|----------- |----------------
+| 1 light    | 15,000 points  
+| 2 lights   | 30,000 points  
+| 3 lights   | 75,000 points  
+| 4 lights   | 30,000 points  
+| 5 lights   | 15,000 points  
+| 6 lights   | 7,500 points   
+
 - A Skill Shot cannot be awarded on a Replay Ball.
 
 ### Fuel Chute
@@ -431,13 +444,16 @@ Spinning a flag changes the Wormhole Exit Light color if the Wormhole is opened.
 
 ### Fuel Flag
 - Points are awarded based on the status of the Booster Target Lights.
-  - No Booster - 500 points per 1/2 spin.
-  - Booster Lit - 2500 points per 1/2 spin.
+
+|--------------|----------
+| No Booster  | 500 points per 1/2 spin
+| Booster Lit | 2500 points per 1/2 spin
 
 ### Hyperspace Flag
 - Points are awarded based on the status of the Booster Target Lights.
-  - No Booster - 500 points per 1/2 spin.
-  - Booster Lit - 2500 points per 1/2 spin.
+
+| No Booster  | 500 points per 1/2 spin
+| Booster Lit | 2500 points per 1/2 spin
 
 ## Kickers
 Areas where the Ball is stopped and "kicked" out.
@@ -462,12 +478,13 @@ There are 9 kickers on the Table.
 - Enter this kicker to 'Launch to Hyperspace'.
 - If the Ball re-enters the kicker while the Hyperspace Reflex Light is lit then a Reflex Shot is awarded.
 - Points are awarded based on which Hyperspace Lights is lit.
-  - 1st light - 10,000 points (Hyperspace Bonus)
-  - 2nd light - 20,000 points + the Jackpot (Jackpot Awarded)
-  - 3rd light - 20,000 points + the Center Post is raised.
-  - 4th light - 50,000 points + Extra Ball Available
-  - 4 lights go out - 150,000 points + Gravity Well Activated
-  - Reflex Shot - +20,000 points
+
+| 1st entry | 1st light | 10,000 points (Hyperspace Bonus)
+| 2nd entry | 2nd light | 20,000 points + the Jackpot (Jackpot Awarded)
+| 3rd light | 20,000 points + the Center Post is raised.
+| 4th light | 50,000 points + Extra Ball Available
+| Lights reset | 150,000 points + Gravity Well Activated
+| Reflex Shot | +20,000 points
 
 ### Out-Lane Kicker
 - Located at the bottom of the two Out-Lanes at the bottom-left & bottom-right of the table.
@@ -2028,11 +2045,11 @@ All points scored directly on the board are multiplied by the value indicated.
 Bonus', Jackpots, and Mission acceptance & completion awards are NOT multiplied.
 
 The number of Multiplier Lights lit Indicates which multiplier is currently being applied:
-- 0 lights - 1x
-- 1 light - 2x
-- 2 lights - 3x
-- 3 lights - 5x
-- 4 lights - 10x
+| 0 lights | 1x
+| 1 light | 2x
+| 2 lights | 3x
+| 3 lights | 5x
+| 4 lights | 10x
 
 ### Flag Upgrade
 
@@ -2145,17 +2162,19 @@ Scores achieved using the Test Codes can not be added to the 'High Scores List'.
 
 ## Test Codes
 
-"hidden_test"
+"hidden test"
 - Enters 'Test Mode'
 - Allows the Ball to be moved with the mouse by clicking & holding in the game window.
 - Once this code is entered it is active for the entire session.
   - The game must be closed and restarted to dismiss this code.
-- Use the following keys after the 'hidden_test' code has been entered:
-  - "h" - Changes the 2nd place score to 1,000,000,000 and allows the Player name to be entered. Does not change 1st place, even if it's less that 1 Billion points.
-  - "m" - Displays the system memory in a separate window.
-  - "r" - Increases the number of Rank Lights by 1.
-  - "y" - Displays the game frame-rate in the title bar.
-- The "Max" codes do not work while 'test mode' is active.
+  - The "Max" codes do not work while test mode is active.
+- Use the following keys after the "hidden test" code has been entered:
+| Key | effect
+|----|------
+| h | Changes the 2nd place score to 1,000,000,000 and allows the Player name to be entered. Does not change 1st place, even if it's less that 11 billion points.
+| m | Displays the system memory in a separate window.
+| r | Increases the number of Rank Lights by 1.
+| y | Displays the game frame-rate in the title bar.
 
 # XIV. Advice & Strategy
 
