@@ -65,35 +65,35 @@ There are a couple of tricks so only one mission needs to be completed to upgrad
 
 ## Things to Get Good At
 
-### Catching the Ball on the Flippers.
+### Catching the Ball on the Flippers
 - Do this by holding the flipper keys so the Ball comes to rest on the Flippers before shooting the Ball up the table.
   - Refer to 'Catching' in the 'Concepts section for more information.
 - This allows you to shoot the ball more accurately.
 
-### Sending the Ball up the Launch Ramp.
+### Sending the Ball up the Launch Ramp
 - Do this by shooting the Ball from the middle of the Right Flipper.
 - This allows you to accept missions, Re-fuel, move the Ball from the Right Flipper to the Left Flipper.
 
-### Sending the Ball up the Hyperspace Chute.
+### Sending the Ball up the Hyperspace Chute
 - Do this by shooting the Ball from the end of the Left Flipper.
 - This allows you to receive the Jackpot, the Center Post, chances at an Extra Ball and the Gravity Well.
 
-### Sending the Ball up the Fuel Chute.
+### Sending the Ball up the Fuel Chute
 - Do this by shooting the Ball from the end of the Right Flipper.
 - This allows you to Re-fuel, get the Ball to the Green Wormhole, and get the Ball to the Re-Entry Lanes.
 
-### Sending the Ball into the Yellow Wormhole.
+### Sending the Ball into the Yellow Wormhole
 - Do this by shooting the Ball from the tip of the Left Flipper.
 - This allows you to get a Replay Ball when the Wormhole Exit Light is Yellow.
 
-### Launch Ramp Skill Shots.
+### Launch Ramp Skill Shots
 - Do this by catching the Ball with the Left Flipper as it drops through the Bonus Lane, but not allowing it to come to rest. When it bounces out over the left Flipper shoot it back up the Launch Ramp.
 - This allows you to complete missions and receive Skill Shot Awards.
 
-### Hyperspace Skill Shots.
+### Hyperspace Skill Shots
 - Do this by "one timing" the Ball back up the chute with the Left Flipper.
 - This allows you to receive the Jackpot, the Center Post, chances at an Extra Ball and the Gravity Well.
 
-### Hitting the left Medal Target.
+### Hitting the left Medal Target
 - Do this by shooting the Ball from the middle of the Right Flipper or using the Launch Ramp Skill Shot technique from the Left Flipper.
 - This allows you to receive Commendations & Extra Balls.

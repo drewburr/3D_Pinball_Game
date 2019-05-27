@@ -353,6 +353,7 @@ Hitting a Spot Target lights the corresponding Target Light.
 ## Lights
 
 ### Chute Lights
+
 #### Deployment Chute
 - 6 lights across the Deployment Chute.
 - Indicates how far up the Deployment Chute the Ball has traveled.
@@ -388,6 +389,7 @@ Hitting a Spot Target lights the corresponding Target Light.
   - Activated when the ball drops from the Launch Platform.
 
 ### Kicker Lights
+
 #### Gravity Well
 - Single Light set in the center of the Progress & Rank Lights.
 - Blinking - Indicates the Gravity Well has been activated.
