@@ -677,7 +677,7 @@ There are 7 rollovers throughout the table.
 - Hit this Rollover to turn on the Return Lane Lights.
     * This element is worth 0 points.
 
-## Targets, Drop
+## Drop Targets
 Yellow squares which fall when hit.
 Targets impart some energy to the Ball when it rebounds.
 There 9 Drop Targets located throughout the Table.
@@ -916,8 +916,9 @@ See the 'Missions' section for more information.
 - Middle of the 3 arrows at the bottom of the Launch Ramp.
 - Indicates the Time Warp Mission will be completed if the Ball enters the Launch Ramp (Promotion).
 
-### Target, Drop Lights
-Booster
+### Drop Target Lights
+
+####Booster
 - 4 lights associated with the Booster Targets.
 - Lights are lit by hitting all 3 Booster Targets.
   - Hit all 3 targets consecutive times to activate additional Play Modes.
@@ -959,7 +960,8 @@ Booster
   - 3 lights – Level 3 Commendation (Extra Ball awarded)
 - Lights are extinguished in order after approximately 60 seconds.
 
-### Target, Spot Lights
+### Targets, Spot Lights
+
 #### Comet
 - 3 lights associated with the Comet (Right Hazard) Targets.
 - Lights are lit by hitting the associated Comet (Right Hazard) Target.
@@ -2090,7 +2092,7 @@ Overview
 - Refer to 'Bumpers' in the 'Table Elements' section for information on point values at each level.
 
 
-# XI. Bonus', Jackpots and Awards
+# XI. Bonus', Jackpots & Awards
 
 Points are added to the Bonus & Jackpots at the base rate they are
   accumulated on the board.
