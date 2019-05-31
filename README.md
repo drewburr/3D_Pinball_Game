@@ -1,5 +1,7 @@
 # 3D Pinball Game
 
+![3D Pinball: Space Cadet](https://www.groovypost.com/wp-content/uploads/2011/11/3D-Pinball-Space-Cadet.png)
+
 This repository is currently used to track the progress of making *3D Pinball: Space Cadet*, IRL.
 See below for references to different sections of this repo, and beyond.
 
